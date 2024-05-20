@@ -1,0 +1,1636 @@
+Concepts,Courses
+learning,1
+probabilities,1
+hidden markov models,1
+information retrieval,1
+markov random fields,1
+markov decision processes,1
+inference,1
+recommendation system,1
+graphical models,1
+sampling,1
+reinforcement learning,1
+machine translation,1
+bayes theorem,1
+bayesian network,1
+uncertainty,1
+information theory,1
+computer vision,1
+kernels,1
+structured sparsity,1
+planning,1
+imagenet,1
+learning,2
+probabilities,2
+hidden markov models,2
+mixture models,2
+inference,2
+graphical models,2
+sampling,2
+conditional probability,2
+bayesian network,2
+learning,3
+probabilities,3
+markov random fields,3
+inference,3
+gibbs sampling,3
+graphical models,3
+sampling,3
+conditional probability,3
+bayesian network,3
+normalization,3
+learning,4
+inference,4
+graphical models,4
+variable elimination,4
+conditional probability,4
+collaborative filtering,4
+normalization,4
+message passing,4
+probabilities,5
+belief propagation,5
+inference,5
+message passing,5
+learning,6
+markov random fields,6
+gradient descent,6
+inference,6
+graphical models,6
+classification,6
+bayesian network,6
+perceptron,6
+linear regression,6
+learning,7
+probabilities,7
+inference,7
+graphical models,7
+conditional probability,7
+classification,7
+bayesian network,7
+unsupervised learning,7
+normalization,7
+optimization,7
+linear regression,7
+search,7
+entropy,7
+learning,8
+probabilities,8
+inference,8
+graphical models,8
+normalization,8
+optimization,8
+entropy,8
+cross entropy,8
+learning,9
+mixture models,9
+inference,9
+latent variable models,9
+dimensionality reduction,9
+graphical models,9
+classification,9
+speech recognition,9
+unsupervised learning,9
+calculus,9
+clustering,9
+linear regression,9
+expectation maximization algorithm,9
+entropy,9
+learning,10
+gaussian graphical models,10
+inference,10
+regularization,10
+graphical models,10
+loss function,10
+optimization,10
+learning,11
+robotics,11
+gradient descent,11
+inference,11
+graphical models,11
+state space models,11
+neural networks,11
+linear regression,11
+learning,12
+probabilities,12
+belief propagation,12
+inference,12
+graphical models,12
+sampling,12
+conditional probability,12
+bayes theorem,12
+unsupervised learning,12
+search,12
+parts of speech,12
+entropy,12
+markov chain monte carlo,13
+belief propagation,13
+mean field approximation,13
+inference,13
+graphical models,13
+sampling,13
+conditional probability,13
+uncertainty,13
+calculus,13
+optimization,13
+clustering,13
+monte carlo methods,13
+message passing,13
+entropy,13
+probabilities,14
+belief propagation,14
+mean field approximation,14
+inference,14
+graphical models,14
+normalization,14
+optimization,14
+clustering,14
+message passing,14
+entropy,14
+markov chain monte carlo,15
+learning,15
+belief propagation,15
+mean field approximation,15
+syntax,15
+inference,15
+gibbs sampling,15
+dimensionality reduction,15
+graphical models,15
+sampling,15
+classification,15
+machine translation,15
+word sense disambiguation,15
+normalization,15
+calculus,15
+optimization,15
+clustering,15
+search,15
+context free grammar,15
+statistical machine translation,15
+entropy,15
+markov chain monte carlo,16
+probabilities,16
+belief propagation,16
+inference,16
+sampling,16
+monte carlo methods,16
+markov chain monte carlo,17
+inference,17
+gibbs sampling,17
+graphical models,17
+sampling,17
+markov chains,17
+monte carlo methods,17
+latent dirichlet allocation,17
+markov random fields,18
+inference,18
+gibbs sampling,18
+sampling,18
+clustering,18
+latent dirichlet allocation,18
+dirichlet processes,19
+mixture models,19
+graphical models,19
+sampling,19
+clustering,19
+markov chain monte carlo,20
+dirichlet processes,20
+inference,20
+gibbs sampling,20
+graphical models,20
+sampling,20
+clustering,20
+particle filter,21
+probabilities,21
+mixture models,21
+inference,21
+latent variable models,21
+graphical models,21
+clustering,21
+feature selection,21
+learning,22
+belief propagation,22
+inference,22
+graphical models,22
+conditional probability,22
+optimization,22
+kernels,22
+linear algebra,22
+hilbert space,22
+learning,23
+belief propagation,23
+inference,23
+graphical models,23
+conditional probability,23
+matrix multiplication,23
+kernels,23
+kernel graphical models,23
+message passing,23
+hilbert space,23
+learning,24
+probabilities,24
+spectral methods,24
+latent variable models,24
+graphical models,24
+normalization,24
+kernels,24
+linear algebra,24
+parsing,24
+hilbert space,24
+matrix factorization,24
+learning,25
+gradient descent,25
+graphical models,25
+uncertainty,25
+optimization,25
+clustering,25
+linear regression,25
+learning,26
+graphical models,26
+maximum likelihood estimation,26
+optimization,26
+linear regression,26
+structured sparsity,26
+kernel function,26
+dirichlet processes,27
+inference,27
+gibbs sampling,27
+sampling,27
+clustering,27
+learning,28
+inference,28
+regularization,28
+handwriting recognition,28
+graphical models,28
+classification,28
+loss function,28
+normalization,28
+structured prediction,28
+optimization,28
+part of speech tagging,28
+context free grammars,28
+kernels,28
+entropy,28
+dual problems,28
+feature learning,28
+semi supervised learning,29
+learning,29
+mixture models,29
+inference,29
+regularization,29
+latent variable models,29
+graphical models,29
+classification,29
+loss function,29
+bayes theorem,29
+maximum likelihood estimation,29
+uncertainty,29
+normalization,29
+clustering,29
+feature selection,29
+entropy,29
+latent dirichlet allocation,29
+learning,30
+long short term memory networks,30
+object detection,30
+dependency syntax,30
+robotics,30
+spelling correction,30
+dialog systems,30
+python,30
+neural machine translation,30
+handwriting recognition,30
+machine translation,30
+language modeling,30
+semantic parsing,30
+speech recognition,30
+entailment,30
+uncertainty,30
+dependency parsing,30
+recurrent neural networks,30
+part of speech tagging,30
+clustering,30
+linear algebra,30
+parsing,30
+entropy,30
+sentiment analysis,30
+question answering,30
+cross entropy,30
+learning,31
+dependency syntax,31
+robotics,31
+syntax,31
+classification,31
+dependency parsing,31
+clustering,31
+parsing,31
+learning,32
+probabilities,32
+robotics,32
+inference,32
+classification,32
+preprocessing,32
+language modeling,32
+markov chains,32
+part of speech tagging,32
+parts of speech,32
+parsing,32
+probabilities,33
+probabilistic context free grammars,33
+cky parsing,33
+context free grammars,33
+context free grammar,33
+parts of speech,33
+parsing,33
+semi supervised learning,34
+learning,34
+semantic role labeling,34
+syntax,34
+lexical semantics,34
+inference,34
+penn treebank,34
+semantic parsing,34
+combinatory categorial grammar,34
+calculus,34
+parsing,34
+linear programming,34
+question answering,34
+semi supervised learning,35
+learning,35
+semantic role labeling,35
+syntax,35
+inference,35
+penn treebank,35
+semantic parsing,35
+neural networks,35
+recurrent neural networks,35
+parsing,35
+linear programming,35
+question answering,35
+machine translation,36
+sequence to sequence,36
+optimization,36
+learning,37
+probabilities,37
+robotics,37
+beam search,37
+machine translation,37
+entailment,37
+search,37
+statistical machine translation,37
+learning,38
+probabilities,38
+attention models,38
+neural machine translation,38
+machine translation,38
+multi task learning,38
+neural networks,38
+statistical machine translation,38
+caption generation,39
+question answering,39
+learning,40
+robotics,40
+weakly supervised learning,40
+log linear models,46
+syntax,48
+parsing,50
+learning,53
+parsing,54
+sequence to sequence,55
+learning,59
+long short term memory networks,59
+convolutional neural networks,59
+gradient descent,59
+inference,59
+machine translation,59
+sentence representations,59
+neural networks,59
+convolutional neural network,59
+optimization,59
+recurrent neural networks,59
+statistical machine translation,59
+sentiment analysis,59
+learning,60
+neural networks,60
+learning,61
+reinforcement learning,61
+unsupervised learning,61
+optimization,61
+search,61
+learning,62
+word embedding,62
+learning,63
+neural networks,63
+recurrent neural networks,63
+learning,64
+python,64
+loss function,64
+linear regression,64
+linear algebra,64
+learning,65
+probabilities,66
+language modeling,66
+probabilities,67
+language modeling,67
+learning,68
+inference,68
+reading comprehension,68
+entailment,68
+unsupervised learning,68
+search,68
+learning,69
+convolutional neural networks,69
+neural networks,69
+convolutional neural network,69
+learning,70
+syntax,70
+reinforcement learning,70
+sentence representations,70
+sequence to sequence,70
+neural networks,70
+predicate logic,70
+parsing,70
+backpropagation,70
+autoencoders,70
+learning,71
+syntax,71
+sentence representations,71
+variational autoencoders,71
+neural networks,71
+predicate logic,71
+parsing,71
+autoencoders,71
+learning,72
+beam search,72
+caption generation,72
+optimization,72
+search,72
+question answering,72
+learning,73
+probabilities,73
+gradient descent,73
+reinforcement learning,73
+bootstrapping,73
+probabilities,74
+syntax,74
+classification,74
+machine translation,74
+word sense disambiguation,74
+structured prediction,74
+search,74
+parsing,74
+probabilities,75
+vector semantics,75
+word sense disambiguation,75
+singular value decomposition,75
+semantic similarity,75
+question answering,75
+vector representations,75
+information retrieval,76
+vector semantics,76
+machine translation,76
+word sense disambiguation,76
+semantic similarity,76
+wordnet,76
+learning,77
+support vector machines,77
+conditional probability,77
+classification,77
+perceptron,77
+language identification,77
+naive bayes,77
+sentiment analysis,77
+learning,78
+conditional probability,78
+classification,78
+perceptron,78
+learning,79
+probabilities,79
+regularization,79
+classification,79
+uncertainty,79
+calculus,79
+perceptron,79
+optimization,79
+learning,80
+regularization,80
+classification,80
+loss function,80
+neural networks,80
+uncertainty,80
+perceptron,80
+optimization,80
+gradient descent,81
+classification,81
+neural networks,81
+activation functions,81
+perceptron,81
+backpropagation,81
+probabilities,82
+classification,82
+machine translation,82
+language modeling,82
+speech recognition,82
+question answering,82
+language modeling,83
+loss function,83
+neural networks,83
+recurrent neural networks,83
+learning,84
+gradient descent,84
+sampling,84
+neural language modeling,84
+language modeling,84
+loss function,84
+long short term memory networks,85
+inference,85
+language modeling,85
+neural networks,85
+recurrent neural networks,85
+backpropagation,85
+penn treebank,86
+information extraction,86
+classification,86
+machine translation,86
+perceptron,86
+dynamic programming,86
+parts of speech,86
+penn treebank,87
+classification,87
+perceptron,87
+dynamic programming,87
+inference,88
+penn treebank,88
+information extraction,88
+classification,88
+loss function,88
+structured prediction,88
+perceptron,88
+optimization,88
+search,88
+dynamic programming,88
+language identification,88
+linear programming,88
+machine translation,89
+language modeling,89
+statistical machine translation,89
+beam search,90
+neural machine translation,90
+sampling,90
+machine translation,90
+sequence to sequence,90
+search,90
+learning,91
+attention models,91
+beam search,91
+neural machine translation,91
+sampling,91
+machine translation,91
+language modeling,91
+loss function,91
+sequence to sequence,91
+search,91
+backpropagation,91
+entropy,91
+cross entropy,91
+learning,92
+attention models,92
+beam search,92
+neural machine translation,92
+sampling,92
+reinforcement learning,92
+machine translation,92
+sequence to sequence,92
+perceptron,92
+search,92
+shift reduce parsing,93
+syntax,93
+information extraction,93
+classification,93
+machine translation,93
+structured prediction,93
+dependency parsing,93
+perceptron,93
+context free grammars,93
+context free grammar,93
+parsing,93
+question answering,93
+shift reduce parsing,94
+dependency parsing,94
+perceptron,94
+recurrent neural networks,94
+transition based dependency parsing,94
+parsing,94
+shift reduce parsing,95
+dependency parsing,95
+perceptron,95
+search,95
+parts of speech,95
+transition based dependency parsing,95
+parsing,95
+learning,96
+syntax,96
+classification,96
+machine translation,96
+word sense disambiguation,96
+structured prediction,96
+dependency parsing,96
+perceptron,96
+search,96
+parsing,96
+edit distance,102
+parts of speech,104
+hidden markov models,105
+syntax,106
+chomsky hierarchy,107
+parsing,109
+parsing,110
+lexical semantics,112
+vector semantics,113
+semantic parsing,116
+parsing,116
+word sense disambiguation,118
+machine translation,119
+learning,120
+speech processing,122
+learning,124
+classification,126
+classification,127
+learning,130
+structured prediction,130
+learning,131
+structured learning,131
+learning,132
+information retrieval,132
+learning,133
+inference,133
+classification,133
+dependency parsing,133
+perceptron,133
+parts of speech,133
+parsing,133
+learning,134
+inference,134
+learning,135
+structured learning,135
+learning,136
+inference,136
+learning,138
+inference,138
+conditional probability,138
+loss function,138
+named entity recognition,138
+entropy,138
+semi supervised learning,139
+learning,139
+learning,140
+inference,140
+conditional probability,140
+normalization,140
+dynamic programming,140
+linear programming,140
+learning,141
+syntax,141
+python,141
+expert systems,141
+unsupervised learning,141
+linear algebra,141
+parsing,141
+learning,142
+inference,142
+classification,142
+perceptron,142
+parts of speech,142
+naive bayes,142
+classification,143
+inference,145
+beam search,146
+neural networks,146
+kernels,146
+search,146
+learning,147
+lexicalized parsing,150
+syntax,150
+penn treebank,150
+context free grammars,150
+dynamic programming,150
+context free grammar,150
+naive bayes,150
+parsing,150
+dependency syntax,151
+syntax,151
+inference,151
+dependency parsing,151
+dynamic programming,151
+neural parsing,151
+parsing,151
+dependency syntax,152
+syntax,152
+inference,152
+dependency parsing,152
+parsing,152
+dependency syntax,153
+syntax,153
+learning,154
+syntax,154
+inference,154
+beam search,154
+calculus,154
+perceptron,154
+search,154
+parsing,154
+information extraction,156
+syntax,157
+machine translation,157
+noisy channel model,157
+machine translation,158
+noisy channel model,158
+reading comprehension,159
+entailment,159
+parsing,159
+syntax,160
+language modeling,160
+stemming,160
+autoencoders,160
+learning,163
+hidden markov models,163
+unsupervised learning,163
+parsing,163
+autoencoders,163
+discourse model,164
+learning,165
+gibbs sampling,165
+sampling,165
+dependency parsing,165
+parsing,165
+learning,166
+neural networks,166
+linear regression,169
+bias variance,174
+clustering,176
+perceptron,177
+gradient descent,181
+entropy,189
+cross entropy,189
+gradient descent,190
+normalization,199
+computer vision,202
+classification,203
+object detection,204
+autoencoders,212
+variational autoencoders,213
+autoencoders,213
+generative adversarial networks,215
+neural networks,219
+recurrent neural networks,219
+bayes theorem,224
+parsing,227
+parsing,229
+parsing,231
+learning,233
+finite state machines,236
+part of speech tagging,238
+structured prediction,241
+topic modeling,243
+learning,250
+conditional probability,256
+maximum likelihood estimation,256
+part of speech tagging,257
+cky parsing,261
+parsing,261
+probabilistic context free grammars,262
+statistical parsing,262
+context free grammars,262
+parsing,262
+penn treebank,263
+parsing,263
+dependency parsing,264
+parsing,264
+word sense disambiguation,267
+semantic similarity,267
+predicate logic,267
+neural networks,268
+learning,269
+probabilities,269
+gradient descent,269
+regularization,269
+classification,269
+machine translation,269
+language modeling,269
+loss function,269
+neural networks,269
+activation functions,269
+perceptron,269
+optimization,269
+entropy,269
+cross entropy,269
+machine translation,270
+machine translation,271
+statistical machine translation,271
+dialog systems,278
+information extraction,279
+learning,280
+naive bayes,281
+dependency parsing,282
+parsing,282
+dependency parsing,283
+parsing,283
+question answering,284
+lexical semantics,285
+semantic parsing,285
+parsing,285
+sentiment analysis,287
+text summarization,288
+word sense disambiguation,289
+text mining,290
+context free grammar,291
+parsing,292
+relation extraction,293
+learning,297
+entropy,298
+neural networks,299
+parsing,301
+probabilistic context free grammars,302
+context free grammars,302
+learning,308
+meta learning,308
+transfer learning,308
+reinforcement learning,308
+neural networks,308
+search,308
+learning,309
+latent variable models,309
+sampling,309
+classification,309
+structured prediction,309
+python,310
+neural networks,310
+learning,311
+monte carlo tree search,311
+gradient descent,311
+reinforcement learning,311
+policy gradient methods,311
+optimization,311
+search,311
+dynamic programming,311
+backpropagation,311
+planning,311
+learning,312
+sampling,312
+reinforcement learning,312
+neural networks,312
+optimization,312
+search,312
+learning,313
+bias variance,313
+reinforcement learning,313
+alphago,313
+policy gradient methods,313
+entropy,313
+learning,314
+neural networks,314
+dynamic programming,314
+learning,315
+sampling,315
+reinforcement learning,315
+optimization,315
+learning,316
+regularization,316
+sampling,316
+reinforcement learning,316
+optimization,316
+learning,317
+monte carlo tree search,317
+reinforcement learning,317
+optimization,317
+search,317
+dynamic programming,317
+entropy,317
+planning,317
+cross entropy,317
+learning,318
+robotics,318
+inference,318
+reinforcement learning,318
+neural networks,318
+uncertainty,318
+entropy,318
+planning,318
+learning,319
+reinforcement learning,319
+classification,319
+optimization,319
+search,319
+dynamic programming,319
+planning,319
+learning,320
+sampling,320
+reinforcement learning,320
+neural networks,320
+uncertainty,320
+bootstrapping,320
+planning,320
+learning,321
+reinforcement learning,321
+information theory,321
+entropy,321
+learning,322
+sampling,322
+reinforcement learning,322
+bootstrapping,322
+dynamic programming,322
+learning,323
+sampling,323
+reinforcement learning,323
+learning,324
+regularization,324
+reinforcement learning,324
+bootstrapping,324
+optimization,324
+learning,325
+inference,325
+latent variable models,325
+variational autoencoders,325
+autoencoders,325
+entropy,325
+learning,326
+transfer learning,326
+inference,326
+reinforcement learning,326
+multi task learning,326
+entropy,326
+planning,326
+learning,327
+meta learning,327
+sampling,327
+reinforcement learning,327
+generative adversarial networks,327
+optimization,327
+entropy,327
+learning,328
+transfer learning,328
+reinforcement learning,328
+multi task learning,328
+neural networks,328
+optimization,328
+domain adaptation,328
+entropy,328
+learning,329
+meta learning,329
+transfer learning,329
+inference,329
+reinforcement learning,329
+multi task learning,329
+neural networks,329
+domain adaptation,329
+learning,330
+learning,331
+learning,332
+inference,332
+python,332
+semantic parsing,332
+speech recognition,332
+calculus,332
+optimization,332
+computer vision,332
+search,332
+linear algebra,332
+parsing,332
+imagenet,332
+semantic role labeling,333
+convolutional neural networks,333
+penn treebank,333
+classification,333
+language modeling,333
+neural networks,333
+search,333
+parsing,333
+parsing,335
+learning,336
+unsupervised learning,336
+text generation,336
+learning,337
+transfer learning,337
+regularization,337
+reading comprehension,337
+regularization,338
+optimization,338
+semantic parsing,340
+parsing,340
+learning,344
+learning,345
+bias variance,348
+classification,350
+backpropagation,351
+object detection,354
+sequence to sequence,360
+learning,361
+policy gradient methods,362
+learning,364
+learning,366
+preprocessing,366
+decision trees,367
+learning,368
+learning,369
+learning,370
+learning,371
+learning,372
+learning,373
+learning,374
+feature selection,374
+learning,375
+feature selection,375
+learning,376
+spelling correction,376
+syntax,376
+information extraction,376
+classification,376
+machine translation,376
+language modeling,376
+word sense disambiguation,376
+speech recognition,376
+text summarization,376
+dependency parsing,376
+parts of speech,376
+parsing,376
+sentiment analysis,376
+question answering,376
+learning,377
+decision trees,377
+tokenization,377
+information retrieval,377
+information extraction,377
+preprocessing,377
+normalization,377
+stemming,377
+search,377
+regular expressions,377
+sentiment analysis,377
+learning,378
+probabilities,378
+support vector machines,378
+sampling,378
+classification,378
+language identification,378
+naive bayes,378
+sentiment analysis,378
+learning,379
+probabilities,379
+hidden markov models,379
+probabilistic context free grammars,379
+gradient descent,379
+regularization,379
+graphical models,379
+support vector machines,379
+conditional probability,379
+classification,379
+machine translation,379
+perceptron,379
+optimization,379
+context free grammars,379
+feature selection,379
+linear regression,379
+naive bayes,379
+parsing,379
+entropy,379
+sentiment analysis,379
+probabilities,380
+classification,380
+machine translation,380
+language modeling,380
+speech recognition,380
+question answering,380
+probabilities,381
+perceptron,381
+parts of speech,381
+learning,382
+hidden markov models,382
+noisy channel model,382
+syntax,383
+context free grammars,383
+parsing,383
+probabilistic context free grammars,384
+statistical parsing,384
+context free grammars,384
+parsing,384
+learning,385
+syntax,385
+penn treebank,385
+dependency parsing,385
+relation extraction,385
+dynamic programming,385
+parsing,385
+probabilities,386
+information retrieval,386
+python,386
+information extraction,386
+machine translation,386
+language modeling,386
+entailment,386
+thesaurus based similarity,386
+semantic similarity,386
+wordnet,386
+question answering,386
+syntax,387
+classification,387
+clustering,387
+probabilities,388
+graph theory,388
+singular value decomposition,388
+clustering,388
+semantic role labeling,389
+syntax,389
+inference,389
+penn treebank,389
+classification,389
+machine translation,389
+wordnet,389
+parsing,389
+question answering,389
+learning,390
+paraphrasing,390
+search,390
+query expansion,390
+wordnet,390
+learning,391
+bootstrapping,391
+wordnet,391
+learning,392
+information extraction,392
+classification,392
+bootstrapping,392
+relation extraction,392
+learning,393
+clustering,393
+parsing,393
+learning,394
+weakly supervised learning,394
+named entity recognition,394
+learning,395
+gibbs sampling,395
+sampling,395
+neural networks,395
+named entity recognition,395
+computer vision,395
+imagenet,395
+linear algebra,398
+feature selection,406
+feature selection,407
+mixture models,409
+clustering,410
+learning,411
+support vector machines,416
+learning,420
+ensemble learning,420
+learning,421
+manifold learning,421
+classification,425
+regularization,426
+part of speech tagging,427
+context free grammar,429
+parsing,429
+probabilistic context free grammars,430
+context free grammars,430
+parsing,430
+parsing,431
+machine translation,432
+statistical machine translation,432
+neural networks,433
+learning,434
+optimization,434
+language modeling,437
+sequence to sequence,438
+latent variable models,439
+latent variable models,440
+text generation,441
+convolutional neural networks,442
+neural networks,442
+learning,443
+learning,444
+reinforcement learning,444
+learning,445
+convolutional neural networks,445
+dialog systems,445
+gibbs sampling,445
+regularization,445
+sampling,445
+machine translation,445
+speech recognition,445
+neural networks,445
+named entity recognition,445
+search,445
+sentiment analysis,445
+question answering,445
+imagenet,445
+learning,446
+optimization,446
+search,446
+wordnet,446
+learning,448
+regularization,448
+python,448
+sampling,448
+matrix multiplication,448
+classification,448
+loss function,448
+neural networks,448
+named entity recognition,448
+optimization,448
+backpropagation,448
+entropy,448
+cross entropy,448
+learning,449
+gradient descent,449
+neural networks,449
+backpropagation,449
+learning,450
+inference,450
+python,450
+sampling,450
+preprocessing,450
+loss function,450
+linear regression,450
+constraint satisfaction,451
+learning,451
+probabilities,451
+syntax,451
+beam search,451
+syntaxnet,451
+word embedding,451
+penn treebank,451
+dependency parsing,451
+context free grammars,451
+search,451
+parsing,451
+entropy,451
+vector representations,451
+learning,452
+probabilities,452
+gradient descent,452
+sampling,452
+classification,452
+machine translation,452
+language modeling,452
+loss function,452
+speech recognition,452
+neural networks,452
+text summarization,452
+calculus,452
+named entity recognition,452
+recurrent neural networks,452
+part of speech tagging,452
+backpropagation,452
+entropy,452
+question answering,452
+cross entropy,452
+gradient descent,453
+entropy,453
+cross entropy,453
+learning,454
+beam search,454
+neural machine translation,454
+machine translation,454
+sequence to sequence,454
+heuristic search,454
+search,454
+statistical machine translation,454
+learning,455
+mixture models,455
+neural machine translation,455
+penn treebank,455
+machine translation,455
+language modeling,455
+sequence to sequence,455
+neural networks,455
+learning,456
+convolutional neural networks,456
+inference,456
+beam search,456
+classification,456
+machine translation,456
+sequence to sequence,456
+neural networks,456
+normalization,456
+search,456
+parsing,456
+entropy,456
+cross entropy,456
+learning,457
+probabilities,457
+clustering,457
+entropy,457
+cross entropy,457
+beam search,458
+neural networks,458
+recurrent neural networks,458
+search,458
+parsing,458
+backpropagation,458
+recursive neural networks,458
+long short term memory networks,459
+classification,459
+neural networks,459
+recurrent neural networks,459
+semi supervised learning,460
+learning,460
+transfer learning,460
+regularization,460
+penn treebank,460
+classification,460
+machine translation,460
+preprocessing,460
+language modeling,460
+unsupervised learning,460
+alphago,460
+computer vision,460
+sentiment analysis,460
+imagenet,460
+learning,461
+inference,461
+multi task learning,461
+search,461
+learning,462
+reinforcement learning,462
+machine translation,462
+sequence to sequence,462
+semantic similarity,462
+entropy,462
+question answering,462
+cross entropy,462
+learning,463
+python,463
+graph theory,463
+neural networks,463
+autonomous cars,463
+optimization,463
+search,463
+linear algebra,463
+class logistics,463
+learning,464
+reinforcement learning,464
+classification,464
+generative adversarial networks,464
+pagerank,464
+unsupervised learning,464
+clustering,464
+learning,465
+gradient descent,465
+loss function,465
+neural networks,465
+optimization,465
+linear regression,465
+learning,466
+gradient descent,466
+classification,466
+loss function,466
+learning,467
+gradient descent,467
+normalization,467
+learning,468
+gradient descent,468
+regularization,468
+classification,468
+neural networks,468
+learning,469
+gradient descent,469
+regularization,469
+classification,469
+neural networks,469
+learning,470
+inference,470
+unsupervised learning,470
+clustering,470
+learning,471
+linear regression,471
+search,471
+learning,472
+training neural networks,472
+neural networks,472
+backpropagation,472
+learning,473
+regularization,473
+speech recognition,473
+neural networks,473
+gradient descent,474
+classification,474
+learning,475
+gradient descent,475
+neural networks,475
+activation functions,475
+backpropagation,475
+learning,476
+neural networks,476
+learning,477
+bias variance,477
+regularization,477
+classification,477
+activation functions,477
+optimization,477
+learning,478
+gradient descent,478
+neural networks,478
+optimization,478
+learning,479
+regularization,479
+neural networks,479
+normalization,479
+learning,480
+bias variance,480
+gradient descent,480
+regularization,480
+classification,480
+activation functions,480
+optimization,480
+search,480
+learning,481
+bias variance,481
+transfer learning,481
+machine translation,481
+speech recognition,481
+multi task learning,481
+learning,482
+object detection,482
+convolutional neural networks,482
+gradient descent,482
+classification,482
+neural networks,482
+convolutional neural network,482
+learning,483
+convolutional neural networks,483
+classification,483
+neural networks,483
+resnet,483
+imagenet,483
+learning,484
+object detection,484
+classification,484
+learning,485
+gradient descent,485
+clustering,485
+classification,486
+machine translation,486
+speech recognition,486
+neural networks,486
+recurrent neural networks,486
+backpropagation,486
+learning,487
+word embedding,487
+classification,487
+learning,488
+convolutional neural networks,488
+beam search,488
+regularization,488
+caption generation,488
+neural machine translation,488
+classification,488
+machine translation,488
+speech recognition,488
+sequence to sequence,488
+neural networks,488
+normalization,488
+recurrent neural networks,488
+search,488
+statistical machine translation,488
+learning,489
+object detection,489
+convolutional neural networks,489
+python,489
+machine translation,489
+neural networks,489
+text generation,489
+learning,490
+speech recognition,490
+neural networks,490
+clustering,490
+imagenet,490
+learning,491
+backpropagation,491
+learning,492
+generative adversarial networks,492
+neural networks,492
+normalization,492
+entropy,492
+imagenet,492
+cross entropy,492
+learning,493
+transfer learning,493
+classification,493
+loss function,493
+convolutional neural network,493
+entropy,493
+cross entropy,493
+learning,495
+regularization,495
+language modeling,495
+neural networks,495
+computer vision,495
+recurrent neural networks,495
+search,495
+backpropagation,495
+entropy,495
+imagenet,495
+cross entropy,495
+learning,496
+meta learning,496
+gradient descent,496
+reinforcement learning,496
+preprocessing,496
+loss function,496
+alphago,496
+learning,497
+convolutional neural networks,497
+classification,497
+neural networks,497
+resnet,497
+imagenet,497
+search,498
+planning,498
+informed search,499
+search,499
+planning,499
+constraint satisfaction,500
+optimization,500
+search,500
+planning,500
+constraint satisfaction,501
+genetic algorithms,501
+adversarial search,501
+search,501
+monte carlo tree search,502
+uncertainty,502
+adversarial search,502
+search,502
+probabilities,503
+reinforcement learning,503
+uncertainty,503
+search,503
+markov decision processes,504
+search,504
+learning,505
+markov decision processes,505
+sampling,505
+reinforcement learning,505
+search,505
+planning,505
+learning,506
+reinforcement learning,506
+planning,506
+constraint satisfaction,507
+learning,507
+reinforcement learning,507
+uncertainty,507
+search,507
+planning,507
+constraint satisfaction,508
+probabilities,508
+inference,508
+conditional probability,508
+speech recognition,508
+uncertainty,508
+normalization,508
+search,508
+planning,508
+probabilities,509
+inference,509
+graphical models,509
+conditional probability,509
+learning,510
+inference,510
+conditional probability,510
+inference,511
+variable elimination,511
+sampling,511
+gibbs sampling,512
+variable elimination,512
+sampling,512
+probabilities,513
+probabilities,514
+hidden markov models,514
+conditional probability,514
+speech recognition,514
+particle filter,515
+probabilities,515
+inference,515
+variable elimination,515
+sampling,515
+speech recognition,515
+uncertainty,515
+learning,516
+probabilities,516
+bag of words model,516
+inference,516
+regularization,516
+sampling,516
+conditional probability,516
+classification,516
+optimization,516
+clustering,516
+naive bayes,516
+learning,517
+probabilities,517
+maximum likelihood estimation,517
+perceptron,517
+optimization,517
+optimization,518
+learning,519
+decision trees,519
+robotics,520
