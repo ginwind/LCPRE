@@ -172,6 +172,14 @@ def trainMAGNN(num_resources, Xtrain, Ytrain, Xtest, Ytest, rcg):
             index = i
     return ap_csv.iloc[index][["P", "R", "F1"]].values
 
+def randomDataset(pos_e, neg_e):
+    start_concept = pos_e[:,0].tolist()+neg_e[:,0].tolist()
+    start_concept = [nodes[each] for each in start_concept]
+    end_concept = pos_e[:,1].tolist()+neg_e[:,1].tolist()
+    end_concept = [nodes[each] for each in end_concept]
+    df = pd.DataFrame({"start concept": start_concept, "end concept": end_concept, "label": [1]*len(pos_e)+[0]*len(neg_e)})
+    df.to_csv(f"{data_path}/dataset.csv", index=False)
+
 if __name__ == "__main__":
     resources, concepts, cc_edges, rc_edges, rr_edges, descriptions, node2Idx, resource_text, concept_text, _ = readGraphMetaData(data_path)
     nodes = resource_text + concept_text
@@ -182,10 +190,14 @@ if __name__ == "__main__":
         embedding_matrix = bertEncoding(data_path+"/embedding.pt", bert_path, nodes, device)
     print("--------finish loading graphMeta and embedding matrix-----------------")
 
-    df = pd.read_csv(f"{data_path}/dataset.csv")
-    pos, neg = df[df["label"]==1].values[:,:2].tolist(), df[df["label"]==0].values[:,:2].tolist()
-    pos_examples = np.array([[node2Idx[each[0]], node2Idx[each[1]]] for each in pos])
-    neg_examples = np.array([[node2Idx[each[0]], node2Idx[each[1]]] for each in neg])
+    if os.path.exists(f"{data_path}/dataset.csv"):
+        df = pd.read_csv(f"{data_path}/dataset.csv")
+        pos, neg = df[df["label"]==1].values[:,:2].tolist(), df[df["label"]==0].values[:,:2].tolist()
+        pos_examples = np.array([[node2Idx[each[0]], node2Idx[each[1]]] for each in pos])
+        neg_examples = np.array([[node2Idx[each[0]], node2Idx[each[1]]] for each in neg])
+    else:
+        pos_examples, neg_examples = negExCreating(concepts, cc_edges, random_percent, len(cc_edges))
+        randomDataset(pos_examples, neg_examples)
 
     posKF, negKF = KFold(n_splits=Kf, shuffle=True), KFold(n_splits=Kf, shuffle=True)
     average_metrics = [0, 0, 0]

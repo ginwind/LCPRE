@@ -1,0 +1,2142 @@
+Concepts,Courses
+computer science,cmu_15-221
+computer,cmu_15-221
+communication,cmu_15-221
+artificial intelligence,msu_CSE 440
+computer science,mit_6.UR
+computer,mit_6.UR
+computer science,iowa_CS:3110
+complexity,iowa_CS:3110
+computer,iowa_CS:3110
+system programming,psu_CMPSC 311
+unix,psu_CMPSC 311
+program analysis,psu_CMPSC 311
+data,psu_CMPSC 311
+internet,psu_CMPSC 421
+computing,psu_CMPSC 421
+javascript,psu_CMPSC 421
+communication,psu_CMPSC 421
+computer science,mit_6.853
+complexity,mit_6.853
+game theory,mit_6.853
+computer,mit_6.853
+modular programming,princeton_COS  217
+system call,princeton_COS  217
+assembly language,princeton_COS  217
+programming style,princeton_COS  217
+debugging,princeton_COS  217
+performance tuning,princeton_COS  217
+system programming,illinois_CS 241
+inter process communication,illinois_CS 241
+memory management,illinois_CS 241
+debugging,illinois_CS 241
+security,illinois_CS 241
+communication,illinois_CS 241
+synchronization,illinois_CS 241
+signal processing,cmu_15-323
+computer,cmu_15-323
+data,cmu_15-323
+interpolation,maryland_CMSC 460
+polynomial,maryland_CMSC 460
+least squares,maryland_CMSC 460
+approximation,maryland_CMSC 460
+theory of computation,psu_CSE 522
+semantics of programming languages,psu_CSE 522
+semantics,psu_CSE 522
+denotational semantics,psu_CSE 522
+computation,psu_CSE 522
+communication,mit_6.013
+computer,stanford_CS 181
+database,mit_6.814
+concurrency control,mit_6.814
+query optimization,mit_6.814
+data,mit_6.814
+computer science,cmu_15-359
+probability theory,cmu_15-359
+algebra,cmu_15-359
+artificial intelligence,cmu_15-359
+probability,cmu_15-359
+calculus,cmu_15-359
+computer,cmu_15-359
+linear algebra,cmu_15-359
+computing,cmu_15-359
+computer simulation,cmu_15-359
+data,cmu_15-359
+uncertainty,cmu_15-359
+randomization,cmu_15-359
+operating system,purdue_CS 50300
+virtual memory,purdue_CS 50300
+prediction,purdue_CS 50300
+synchronization,purdue_CS 50300
+mutual exclusion,purdue_CS 50300
+dynamic programming,caltech_CS 38
+linear programming,caltech_CS 38
+introduction to algorithms,caltech_CS 38
+computer graphics,stanford_CS 148
+interpolation,stanford_CS 148
+computer,stanford_CS 148
+graphics,stanford_CS 148
+shading,stanford_CS 148
+perl,iowa_CS:2110
+computing,iowa_CS:2110
+data,iowa_CS:2110
+introduction to algorithms,iowa_CS:2110
+natural language processing,mit_6.863
+parsing,mit_6.863
+question answering,mit_6.863
+computer,mit_6.863
+natural language,mit_6.863
+randomness,cmu_15-104
+complexity,cmu_15-104
+recursion,cmu_15-104
+software design,cmu_15-104
+computing,cmu_15-104
+data,cmu_15-104
+inference,cmu_15-387
+reason,cmu_15-387
+database,illinois_CS 411
+concurrency control,illinois_CS 411
+data,illinois_CS 411
+security,illinois_CS 411
+computer science,illinois_CS 125
+computer,illinois_CS 125
+computing,illinois_CS 125
+graph coloring,stanford_CS 267
+data,stanford_CS 267
+approximation,stanford_CS 267
+communication,mit_6.452
+natural language processing,stanford_CS 224U
+machine learning,stanford_CS 224U
+parsing,stanford_CS 224U
+sentiment analysis,stanford_CS 224U
+semantics,stanford_CS 224U
+lexical semantics,stanford_CS 224U
+natural language,stanford_CS 224U
+computer science,stanford_CS 103A
+discrete mathematics,stanford_CS 103A
+computer,stanford_CS 103A
+mathematics,stanford_CS 103A
+problem solving,stanford_CS 103A
+image,mit_6.866
+computer,mit_6.021
+communication,mit_6.021
+computer science,cmu_15-211
+computer,cmu_15-211
+data,cmu_15-211
+speech recognition,msu_CSE 843
+robot,msu_CSE 843
+natural language,msu_CSE 843
+communication,msu_CSE 843
+computational geometry,iowa_CS:5350
+geometry,iowa_CS:5350
+analysis of algorithms,iowa_CS:5350
+data,iowa_CS:5350
+approximation,iowa_CS:5350
+randomization,iowa_CS:5350
+computing,maryland_CMSC 106
+structured programming,maryland_CMSC 106
+computer graphics,psu_CMPSC 458
+computer,psu_CMPSC 458
+input output,psu_CMPSC 458
+graphics,psu_CMPSC 458
+concurrency control,mit_6.852
+deadlock,mit_6.852
+distributed algorithms,mit_6.852
+computation,mit_6.852
+communication,mit_6.852
+synchronization,mit_6.852
+machine learning,maryland_CMSC 422
+data mining,maryland_CMSC 422
+data,maryland_CMSC 422
+mobile device,cmu_15-237
+javascript,cmu_15-237
+computer security,illinois_CS 461
+cryptography,illinois_CS 461
+network security,illinois_CS 461
+information assurance,illinois_CS 461
+authentication,illinois_CS 461
+computer,illinois_CS 461
+computing,illinois_CS 461
+data,illinois_CS 461
+security,illinois_CS 461
+programming language,caltech_CS 11
+computer,caltech_CS 11
+computer science,iowa_CS:4350
+logic,iowa_CS:4350
+computer,iowa_CS:4350
+computation,iowa_CS:4350
+computer science,cmu_15-122
+imperative programming,cmu_15-122
+computer,cmu_15-122
+computation,cmu_15-122
+data,cmu_15-122
+tensor,mit_6.685
+machine learning,princeton_COS  402
+artificial intelligence,princeton_COS  402
+speech recognition,princeton_COS  402
+inference,princeton_COS  402
+uncertainty,princeton_COS  402
+problem solving,princeton_COS  402
+communication,msu_CSE 429
+interaction design,stanford_CS 476B
+software design,stanford_CS 476B
+computing,stanford_CS 476B
+virtual reality,stanford_CS 476B
+shared memory,illinois_CS 484
+synchronization,illinois_CS 484
+software development,msu_CSE 914
+software engineering,msu_CSE 914
+formal methods,msu_CSE 914
+user interface,msu_CSE 914
+arithmetic logic unit,msu_CSE 420
+logic,msu_CSE 420
+computer,msu_CSE 420
+computer architecture,msu_CSE 420
+input output,msu_CSE 420
+memory hierarchy,msu_CSE 420
+data,msu_CSE 420
+arithmetic,msu_CSE 420
+internet,"princeton_COS  109,EGR  109"
+computing,"princeton_COS  109,EGR  109"
+security,"princeton_COS  109,EGR  109"
+computer security,illinois_CS 463
+cryptography,illinois_CS 463
+computer,illinois_CS 463
+security,illinois_CS 463
+human computer interaction,stanford_CS 147
+interaction design,stanford_CS 147
+computer,stanford_CS 147
+computer science,caltech_CS 101
+computer,caltech_CS 101
+computer science,illinois_CS 492
+computer,illinois_CS 492
+algebra,mit_6.905
+artificial intelligence,mit_6.905
+pattern matching,mit_6.905
+computer,mit_6.905
+data,mit_6.905
+database,purdue_CS 62600
+malware,purdue_CS 62600
+information assurance,purdue_CS 62600
+authentication,purdue_CS 62600
+computer,purdue_CS 62600
+formal verification,purdue_CS 62600
+security,purdue_CS 62600
+algebra,cmu_15-354
+logic,cmu_15-354
+complexity,cmu_15-354
+discrete mathematics,cmu_15-354
+computability,cmu_15-354
+mathematics,cmu_15-354
+computer programming,caltech_CS 1
+object oriented programming,caltech_CS 1
+programming language,caltech_CS 1
+python programming language,caltech_CS 1
+recursion,caltech_CS 1
+computer,caltech_CS 1
+input output,caltech_CS 1
+debugging,caltech_CS 1
+data,caltech_CS 1
+graphics,caltech_CS 1
+algorithm,iowa_CS:3330
+dynamic programming,iowa_CS:3330
+algorithm design,iowa_CS:3330
+randomization,iowa_CS:3330
+finite state machine,caltech_CS 119
+software testing,caltech_CS 119
+debugging,caltech_CS 119
+social network,illinois_CS 467
+data,illinois_CS 467
+database,psu_CMPSC 431W
+internet,psu_CMPSC 431W
+database system,psu_CMPSC 431W
+data,psu_CMPSC 431W
+computer animation,cmu_15-464
+computer,cmu_15-464
+motion capture,cmu_15-464
+computing,maryland_CMSC 714
+message passing,maryland_CMSC 714
+debugging,maryland_CMSC 714
+data,maryland_CMSC 714
+shared memory,maryland_CMSC 714
+algorithm,stanford_CS 229T
+data,stanford_CS 229T
+malware,illinois_CS 460
+network security,illinois_CS 460
+security,illinois_CS 460
+operating system,cmu_15-412
+web server,cmu_15-412
+computer science,mit_6.01
+computer,mit_6.01
+inference,mit_6.01
+computer software,psu_CMPSC 483W
+software design,psu_CMPSC 483W
+computer,psu_CMPSC 483W
+computer science,maryland_CMSC 250
+logic,maryland_CMSC 250
+computer,maryland_CMSC 250
+complexity,psu_CSE 564
+approximation,psu_CSE 564
+computer network,psu_CMPSC 438
+network security,psu_CMPSC 438
+computer,psu_CMPSC 438
+computing,psu_CMPSC 438
+server computing,psu_CMPSC 438
+security,psu_CMPSC 438
+communication,psu_CMPSC 438
+probability,caltech_CMS/CS/EE 144
+internet,caltech_CMS/CS/EE 144
+graph theory,caltech_CMS/CS/EE 144
+economics,caltech_CMS/CS/EE 144
+probability,mit_6.431
+computer vision,mit_6.870
+human computer interaction,mit_6.870
+computer,mit_6.870
+software development,iowa_CS:2820
+data,iowa_CS:2820
+interpolation,psu_CMPSC 451
+fast fourier transform,psu_CMPSC 451
+approximation,psu_CMPSC 451
+communication,mit_6.152
+signal processing,mit_6.115
+robot,mit_6.115
+communication,mit_6.115
+algorithm,cmu_15-451
+analysis of algorithms,cmu_15-451
+cryptography,cmu_15-451
+algorithm design,cmu_15-451
+data,cmu_15-451
+computation,psu_CSE 557
+user interface design,illinois_CS 465
+user interface,illinois_CS 465
+big data,cmu_15-319
+computing,cmu_15-319
+cloud computing,cmu_15-319
+mapreduce,cmu_15-319
+web service,cmu_15-319
+data,cmu_15-319
+security,cmu_15-319
+memory hierarchy,mit_6.871
+computer,caltech_CS 24
+computing,caltech_CS 24
+computer architecture,caltech_CS 24
+communication,caltech_CS 24
+computer,cmu_15-437
+javascript,cmu_15-437
+html,cmu_15-437
+scalability,cmu_15-437
+security,cmu_15-437
+database,princeton_COS  451
+computer graphics,princeton_COS  451
+robotics,princeton_COS  451
+computational geometry,princeton_COS  451
+geometry,princeton_COS  451
+pattern recognition,princeton_COS  451
+computer,princeton_COS  451
+computing,princeton_COS  451
+graphics,princeton_COS  451
+database,iowa_CS:2420
+relational database,iowa_CS:2420
+relational model,iowa_CS:2420
+sql,iowa_CS:2420
+database design,iowa_CS:2420
+database normalization,iowa_CS:2420
+pattern recognition,caltech_CS/CNS/EE 156
+statistics,caltech_CS/CNS/EE 156
+computation,caltech_CS/CNS/EE 156
+approximation,caltech_CS/CNS/EE 156
+software engineering,msu_CSE 435
+machine learning,illinois_CS 548
+complexity,illinois_CS 548
+artificial intelligence,illinois_CS 548
+prediction,illinois_CS 548
+image processing,mit_6.865
+data,mit_6.865
+image,mit_6.865
+computer,mit_6.630
+computer graphics,purdue_CS 53500
+geometry,purdue_CS 53500
+computer,purdue_CS 53500
+graphics,purdue_CS 53500
+problem solving,purdue_CS 53500
+software development,stanford_CS 107E
+programming language,stanford_CS 107E
+computer,stanford_CS 107E
+debugging,stanford_CS 107E
+data,stanford_CS 107E
+arithmetic,stanford_CS 107E
+operating system,cmu_15-449
+computer,cmu_15-449
+integral,cmu_15-449
+entropy,mit_6.450
+data,mit_6.450
+communication,mit_6.450
+natural language processing,msu_CSE 484
+question answering,msu_CSE 484
+natural language,msu_CSE 484
+matlab,mit_6.556
+data,mit_6.556
+image,mit_6.556
+randomness,stanford_CS 265
+machine learning,stanford_CS 265
+data analysis,stanford_CS 265
+data,stanford_CS 265
+database,psu_CSE 542
+data,psu_CSE 542
+image processing,mit_6.003
+image,mit_6.003
+complexity,illinois_CS 574
+entropy,illinois_CS 574
+logic,stanford_CS 157
+predicate logic,stanford_CS 157
+natural language processing,illinois_CS 447
+parsing,illinois_CS 447
+machine translation,illinois_CS 447
+syntax,illinois_CS 447
+semantics,illinois_CS 447
+part of speech tagging,illinois_CS 447
+lexical semantics,illinois_CS 447
+natural language,illinois_CS 447
+operating system,"princeton_COS  432,ELE  432"
+network security,"princeton_COS  432,ELE  432"
+computing,"princeton_COS  432,ELE  432"
+security,"princeton_COS  432,ELE  432"
+communication,"princeton_COS  432,ELE  432"
+information security,"princeton_COS  432,ELE  432"
+calculus,illinois_CS 476
+formal methods,illinois_CS 476
+data,illinois_CS 476
+debugging,illinois_CS 420
+machine learning,stanford_CS 221
+robotics,stanford_CS 221
+logic,stanford_CS 221
+artificial intelligence,stanford_CS 221
+probability,stanford_CS 221
+speech recognition,stanford_CS 221
+mathematics,stanford_CS 221
+computation,stanford_CS 221
+software engineering,stanford_CS 106A
+programming language,stanford_CS 106A
+java programming language,stanford_CS 106A
+computer,stanford_CS 106A
+programming style,stanford_CS 106A
+logic,mit_6.111
+graphics,mit_6.111
+communication,mit_6.111
+synchronization,mit_6.111
+statistical inference,mit_6.437
+large deviations theory,mit_6.437
+geometry,mit_6.437
+statistics,mit_6.437
+entropy,mit_6.437
+prediction,mit_6.437
+inference,mit_6.437
+approximation,mit_6.437
+asymptotic analysis,mit_6.437
+data,mit_6.776
+communication,mit_6.776
+computer science,msu_CSE 260
+first order logic,msu_CSE 260
+logic,msu_CSE 260
+probability,msu_CSE 260
+computer,msu_CSE 260
+database,msu_CSE 480
+transaction processing,msu_CSE 480
+database design,msu_CSE 480
+query optimization,msu_CSE 480
+data,msu_CSE 480
+signal processing,mit_6.161
+communication,mit_6.161
+data,mit_6.071
+logic,illinois_CS 233
+computer,illinois_CS 233
+computer architecture,illinois_CS 233
+security,illinois_CS 233
+computer graphics,illinois_CS 419
+geometry,illinois_CS 419
+computer,illinois_CS 419
+data,illinois_CS 419
+graphics,illinois_CS 419
+network security,cmu_15-441
+internet,cmu_15-441
+routing,cmu_15-441
+computer,cmu_15-441
+peer to peer,cmu_15-441
+security,cmu_15-441
+cryptography,mit_6.875
+complexity,mit_6.875
+cryptanalysis,mit_6.875
+encryption,mit_6.875
+object oriented programming,psu_CMPSC 221
+programming language,psu_CMPSC 221
+graphics,psu_CMPSC 221
+lexical analysis,cmu_15-411
+compiler,cmu_15-411
+memory management,cmu_15-411
+unix,mit_6.828
+operating system,mit_6.828
+computer,mit_6.828
+file system,mit_6.828
+personal computer,mit_6.828
+virtual memory,mit_6.828
+communication,mit_6.828
+polynomial,psu_CMPSC 456
+numerical analysis,psu_CMPSC 456
+approximation,psu_CMPSC 456
+network security,maryland_CMSC 414
+internet,maryland_CMSC 414
+authentication,maryland_CMSC 414
+computer,maryland_CMSC 414
+number theory,maryland_CMSC 414
+security,maryland_CMSC 414
+encryption,maryland_CMSC 414
+recursion,psu_CMPSC 302
+logic,caltech_CS 118
+model checking,caltech_CS 118
+formal verification,caltech_CS 118
+computer science,cmu_15-390
+computer,cmu_15-390
+object oriented programming,cmu_15-214
+computer,cmu_15-214
+data,cmu_15-214
+human computer interaction,stanford_CS 549
+computer,stanford_CS 549
+information theory,cmu_15-386
+signal processing,cmu_15-386
+matlab,cmu_15-386
+inference,cmu_15-386
+computation,cmu_15-386
+software engineering,stanford_CS 106B
+object oriented programming,stanford_CS 106B
+programming language,stanford_CS 106B
+complexity,stanford_CS 106B
+recursion,stanford_CS 106B
+data,stanford_CS 106B
+computer science,illinois_CS 173
+algebra,illinois_CS 173
+recursion,illinois_CS 173
+computer,illinois_CS 173
+signal processing,mit_6.344
+image processing,mit_6.344
+image,mit_6.344
+object oriented programming,psu_CMPSC 460
+analysis of algorithms,msu_CSE 331
+data,msu_CSE 331
+programming language,psu_CMPSC 461
+software development,illinois_CS 428
+software engineering,illinois_CS 428
+algorithm,iowa_CS:5610
+algorithm design,iowa_CS:5610
+parallel algorithm,iowa_CS:5610
+computer,iowa_CS:5610
+computer architecture,iowa_CS:5610
+economics,caltech_SS/CS 149
+computation,caltech_SS/CS 149
+routing,psu_CMPSC 436
+data,psu_CMPSC 436
+security,psu_CMPSC 436
+communication,psu_CMPSC 436
+data,illinois_CS 438
+communication,illinois_CS 438
+software engineering,illinois_CS 527
+database,stanford_CS 193P
+programming language,stanford_CS 193P
+mobile device,stanford_CS 193P
+user interface design,stanford_CS 193P
+memory management,stanford_CS 193P
+user interface,stanford_CS 193P
+internet,purdue_CS 53600
+packet switching,purdue_CS 53600
+routing,purdue_CS 53600
+computer,purdue_CS 53600
+computation,purdue_CS 53600
+data,purdue_CS 53600
+communication,purdue_CS 53600
+cache coherence,mit_6.846
+parallel computing,mit_6.846
+computer,mit_6.846
+computing,mit_6.846
+computer architecture,mit_6.846
+message passing,mit_6.846
+data,mit_6.846
+shared memory,mit_6.846
+communication,mit_6.846
+synchronization,mit_6.846
+randomness,mit_6.045
+computer science,mit_6.045
+cryptography,mit_6.045
+complexity,mit_6.045
+theoretical computer science,mit_6.045
+computer,mit_6.045
+computing,mit_6.045
+computational learning theory,mit_6.045
+computability,mit_6.045
+computer graphics,iowa_CS:4520
+computer,iowa_CS:4520
+graphics,iowa_CS:4520
+shading,iowa_CS:4520
+computer,princeton_COS  518
+machine learning,msu_CSE 847
+data mining,msu_CSE 847
+unsupervised learning,msu_CSE 847
+data,msu_CSE 847
+computer science,caltech_SS/CS 241
+computer,caltech_SS/CS 241
+economics,caltech_SS/CS 241
+prediction,caltech_SS/CS 241
+object oriented programming,msu_CSE 335
+software design,msu_CSE 335
+theory of computation,iowa_CS:4330
+computation,iowa_CS:4330
+memory management,iowa_CS:3620
+security,iowa_CS:3620
+communication,iowa_CS:3620
+synchronization,iowa_CS:3620
+computer science,cmu_15-465
+computer,cmu_15-465
+motion capture,cmu_15-465
+artificial intelligence,psu_CMPSC 442
+algorithm,mit_6.581
+feature extraction,mit_6.581
+human computer interaction,mit_6.334
+computer,mit_6.334
+programming language,illinois_CS 565
+computer,illinois_CS 565
+high level programming language,illinois_CS 565
+computer science,cmu_15-322
+operating system,cmu_15-322
+computer,cmu_15-322
+internet,purdue_CS 63800
+routing,purdue_CS 63800
+osi model,purdue_CS 63800
+communication,purdue_CS 63800
+image processing,purdue_CS 63600
+matlab,purdue_CS 63600
+feature extraction,purdue_CS 63600
+image,purdue_CS 63600
+computer,stanford_CS 232
+computer architecture,stanford_CS 232
+game theory,psu_CSE 539
+communication,psu_CSE 539
+software engineering,mit_6.254
+communication,mit_6.254
+algorithm,iowa_CS:5800
+multiplication,iowa_CS:5800
+instruction set,stanford_CS 367
+computation,stanford_CS 367
+virtual reality,mit_6.004
+operating system,stanford_CS 211
+computer,stanford_CS 211
+integral,stanford_CS 211
+polynomial,cmu_15-610
+numerical analysis,cmu_15-610
+algorithm,purdue_CS 51400
+computer graphics,purdue_CS 51400
+computer,purdue_CS 51400
+graphics,purdue_CS 51400
+finite difference,caltech_CS/CNS 174
+sparse matrix,caltech_CS/CNS 174
+speech recognition,cmu_15-405
+lexical analysis,mit_6.673
+parsing,mit_6.673
+compiler,mit_6.673
+program analysis,mit_6.673
+computer science,mit_6.345
+complexity,mit_6.345
+probability,mit_6.345
+computer,mit_6.345
+mathematics,mit_6.345
+number theory,mit_6.345
+data,mit_6.345
+computer science,stanford_CS 143
+machine learning,stanford_CS 143
+perl,stanford_CS 143
+matlab,stanford_CS 143
+computer,stanford_CS 143
+data,stanford_CS 143
+computer vision,maryland_CMSC 456
+fourier analysis,maryland_CMSC 456
+computer,maryland_CMSC 456
+inference,maryland_CMSC 456
+image,maryland_CMSC 456
+artificial intelligence,cmu_15-321
+human computer interaction,cmu_15-385
+computer,cmu_15-385
+amortized analysis,stanford_CS 227B
+data,stanford_CS 227B
+randomization,stanford_CS 227B
+semantics of programming languages,iowa_CS:4500
+prolog,iowa_CS:4500
+semantics,iowa_CS:4500
+operating system,stanford_CS 166
+computer,stanford_CS 166
+security,stanford_CS 166
+statistics,maryland_CMSC 330
+data analysis,maryland_CMSC 330
+data,maryland_CMSC 330
+quantum mechanics,psu_CSE 544
+computer,princeton_COS  513
+input output,princeton_COS  513
+compiler,mit_6.728
+syntax,mit_6.728
+computer security,psu_CMPSC 473
+cryptography,psu_CMPSC 473
+authentication,psu_CMPSC 473
+computer,psu_CMPSC 473
+data,psu_CMPSC 473
+security,psu_CMPSC 473
+encryption,psu_CMPSC 473
+computer,illinois_CS 426
+communication,illinois_CS 426
+complexity,stanford_CS 255
+computation,stanford_CS 255
+cache coherence,mit_6.131
+logic,mit_6.131
+computer,mit_6.131
+computer architecture,mit_6.131
+virtual memory,mit_6.131
+prediction,mit_6.131
+arithmetic,mit_6.131
+microprocessor,mit_6.131
+computer science,caltech_BE/CS/CNS/Bi 191
+probability theory,caltech_BE/CS/CNS/Bi 191
+algebra,caltech_BE/CS/CNS/Bi 191
+combinatorics,caltech_BE/CS/CNS/Bi 191
+cryptography,caltech_BE/CS/CNS/Bi 191
+complexity,caltech_BE/CS/CNS/Bi 191
+probability,caltech_BE/CS/CNS/Bi 191
+game theory,caltech_BE/CS/CNS/Bi 191
+graph theory,caltech_BE/CS/CNS/Bi 191
+computer,caltech_BE/CS/CNS/Bi 191
+problem solving,caltech_BE/CS/CNS/Bi 191
+automata theory,caltech_BE/CS/CNS/Bi 191
+computer vision,mit_6.175
+computer graphics,mit_6.175
+computer,mit_6.175
+graphics,mit_6.175
+image,mit_6.175
+computer vision,cmu_15-251
+computer,cmu_15-251
+computer science,purdue_CS 63500
+pagerank,purdue_CS 63500
+parallel computing,purdue_CS 63500
+cluster analysis,purdue_CS 63500
+big data,purdue_CS 63500
+computer,purdue_CS 63500
+computing,purdue_CS 63500
+statistics,purdue_CS 63500
+mathematics,purdue_CS 63500
+data analysis,purdue_CS 63500
+data,purdue_CS 63500
+database,stanford_CS 231B
+relational model,stanford_CS 231B
+concurrency control,stanford_CS 231B
+database design,stanford_CS 231B
+query optimization,stanford_CS 231B
+algebra,iowa_CS:4740
+geometry,iowa_CS:4740
+analysis of algorithms,iowa_CS:4740
+cryptography,iowa_CS:4740
+complexity,iowa_CS:4740
+coding theory,iowa_CS:4740
+linear programming,iowa_CS:4740
+computer,iowa_CS:4740
+linear algebra,iowa_CS:4740
+number theory,iowa_CS:4740
+data,iowa_CS:4740
+randomization,iowa_CS:4740
+software engineering,maryland_CMSC 424
+combinatorics,caltech_CS 138
+complexity,caltech_CS 138
+machine learning,caltech_CS 3
+artificial intelligence,caltech_CS 3
+logic,maryland_CMSC 351
+syntax,maryland_CMSC 351
+semantics,maryland_CMSC 351
+computation,maryland_CMSC 351
+algorithm,psu_CMPSC 448
+computer science,psu_CMPSC 448
+dynamic programming,psu_CMPSC 448
+algorithm design,psu_CMPSC 448
+recursion,psu_CMPSC 448
+computer,psu_CMPSC 448
+debugging,psu_CMPSC 448
+computation,psu_CMPSC 448
+data,psu_CMPSC 448
+computing,cmu_15-312
+algorithm,caltech_CS 2
+statistics,caltech_CS 2
+data,caltech_CS 2
+computer network,illinois_CS 210
+routing,illinois_CS 210
+computer,illinois_CS 210
+data,illinois_CS 210
+cache coherence,mit_6.456
+complexity,mit_6.456
+superscalar,mit_6.456
+graphics,mit_6.456
+security,mit_6.456
+computer science,msu_CSE 422
+computer,msu_CSE 422
+probability,stanford_CS 316
+stochastic,stanford_CS 316
+statistics,stanford_CS 316
+computation,stanford_CS 316
+data,stanford_CS 316
+debugging,psu_CMPSC 485W
+communication,psu_CMPSC 485W
+problem solving,psu_CMPSC 485W
+randomness,mit_6.0002
+complexity,mit_6.0002
+analysis of algorithms,cmu_15-295
+approximation,cmu_15-295
+programming language,mit_6.551
+cryptography,mit_6.551
+software design,mit_6.551
+programming language,caltech_CS/EE 145
+functional programming,caltech_CS/EE 145
+computer graphics,illinois_CS 422
+computer,illinois_CS 422
+graphics,illinois_CS 422
+probability,mit_6.732
+computation,mit_6.732
+communication,mit_6.732
+complexity,psu_CMPSC 457
+computer software,psu_CMPSC 457
+computer,psu_CMPSC 457
+security,psu_CMPSC 457
+communication,psu_CMPSC 457
+analysis of algorithms,caltech_CS 150
+linear programming,caltech_CS 150
+np complete,caltech_CS 150
+approximation,caltech_CS 150
+computer graphics,mit_6.033
+geometric modeling,mit_6.033
+computer,mit_6.033
+motion capture,mit_6.033
+graphics,mit_6.033
+image,mit_6.033
+computer,stanford_CS 261
+computer architecture,stanford_CS 261
+message passing,stanford_CS 261
+data,stanford_CS 261
+shared memory,stanford_CS 261
+communication,stanford_CS 261
+computer science,mit_6.830
+object oriented programming,mit_6.830
+computer,mit_6.830
+algorithm,cmu_15-418
+algorithm design,cmu_15-418
+computing,maryland_CMSC 131
+problem solving,maryland_CMSC 131
+analysis of algorithms,mit_6.376
+data,mit_6.376
+network security,msu_CSE 131
+security,msu_CSE 131
+computer graphics,mit_6.301
+volume rendering,mit_6.301
+computer,mit_6.301
+graphics,mit_6.301
+computer programming,stanford_CS 167
+object oriented programming,stanford_CS 167
+programming language,stanford_CS 167
+complexity,stanford_CS 167
+recursion,stanford_CS 167
+functional programming,stanford_CS 167
+computer,stanford_CS 167
+computation,stanford_CS 167
+data,stanford_CS 167
+complexity,psu_CSE 545
+computer software,psu_CSE 545
+computer,psu_CSE 545
+virtual memory,psu_CSE 545
+security,psu_CSE 545
+encryption,psu_CSE 545
+computer science,iowa_CS:5520
+computer,iowa_CS:5520
+computer vision,caltech_CS 4
+machine learning,caltech_CS 4
+parsing,caltech_CS 4
+computer,caltech_CS 4
+parsing,stanford_CS 110
+compiler,stanford_CS 110
+transaction processing,iowa_CS:4980
+data,iowa_CS:4980
+computer,illinois_CS 544
+computer architecture,illinois_CS 544
+computation,illinois_CS 544
+data,illinois_CS 544
+bioinformatics,psu_CMPSC 470
+computing,psu_CMPSC 470
+data,psu_CMPSC 470
+security,psu_CMPSC 470
+data mining,illinois_CS 511
+data,illinois_CS 511
+security,illinois_CS 511
+operating system,illinois_CS 533
+computer,illinois_CS 533
+security,illinois_CS 533
+complexity,mit_6.872
+computation,mit_6.872
+approximation,mit_6.872
+computer,illinois_CS 512
+osi model,illinois_CS 512
+communication,illinois_CS 512
+machine learning,iowa_CS:4340
+data mining,iowa_CS:4340
+data,iowa_CS:4340
+bioinformatics,maryland_CMSC 417
+data,maryland_CMSC 417
+communication,illinois_CS 242
+computer vision,caltech_CMS/CS/CNS/EE 155
+computer,caltech_CMS/CS/CNS/EE 155
+data,caltech_CMS/CS/CNS/EE 155
+algebra,maryland_CMSC 423
+polynomial,maryland_CMSC 423
+computer,maryland_CMSC 423
+computation,maryland_CMSC 423
+model checking,msu_CSE 498
+program analysis,msu_CSE 498
+semantics,msu_CSE 498
+natural language processing,princeton_COS  429
+machine learning,princeton_COS  429
+parsing,princeton_COS  429
+machine translation,princeton_COS  429
+natural language,princeton_COS  429
+algorithm,cmu_15-355
+computer science,cmu_15-355
+combinatorics,cmu_15-355
+logic,cmu_15-355
+computer,cmu_15-355
+parallel computing,mit_6.806
+computer,mit_6.806
+computing,mit_6.806
+message passing,mit_6.806
+data,mit_6.806
+shared memory,mit_6.806
+synchronization,mit_6.806
+signal processing,iowa_CS:2210
+stochastic,iowa_CS:2210
+fourier analysis,mit_6.731
+image processing,mit_6.731
+computer,mit_6.731
+input output,mit_6.731
+data,mit_6.731
+image,mit_6.731
+robot,stanford_CS 149
+computer,mit_6.552
+machine learning,maryland_CMSC 426
+reinforcement learning,maryland_CMSC 426
+dynamic programming,maryland_CMSC 426
+pattern recognition,maryland_CMSC 426
+exponential family,maryland_CMSC 426
+computer vision,stanford_CS 327A
+machine learning,stanford_CS 327A
+computer,stanford_CS 327A
+graphics,stanford_CS 327A
+image,stanford_CS 327A
+lexical analysis,cmu_15-466
+parsing,cmu_15-466
+compiler,cmu_15-466
+computer,stanford_CS 229
+shading,stanford_CS 229
+debugging,mit_6.869
+communication,mit_6.869
+problem solving,mit_6.869
+randomness,psu_CMPSC 471
+complexity,psu_CMPSC 471
+pspace,psu_CMPSC 471
+machine learning,msu_CSE 473
+prediction,msu_CSE 473
+network security,cmu_15-440
+packet switching,cmu_15-440
+routing,cmu_15-440
+computer,cmu_15-440
+congestion control,cmu_15-440
+security,cmu_15-440
+finite difference,cmu_15-455
+finite element method,cmu_15-455
+interpolation,mit_6.036
+numerical analysis,mit_6.036
+least squares,mit_6.036
+linear system,mit_6.036
+approximation,mit_6.036
+compiler,stanford_CS 144
+memory management,purdue_CS 61500
+user interface,purdue_CS 61500
+security,purdue_CS 61500
+computer vision,illinois_CS 450
+machine learning,illinois_CS 450
+data mining,illinois_CS 450
+computer,illinois_CS 450
+unsupervised learning,illinois_CS 450
+natural language,illinois_CS 450
+data,illinois_CS 450
+database,illinois_CS 526
+relational model,illinois_CS 526
+algebra,illinois_CS 526
+sql,illinois_CS 526
+database design,illinois_CS 526
+relational algebra,illinois_CS 526
+linear programming,psu_CSE 511
+integer,psu_CSE 511
+object oriented programming,stanford_CS 145
+recursion,stanford_CS 145
+data,stanford_CS 145
+software engineering,mit_6.251
+formal methods,mit_6.251
+software engineering,stanford_CS 251P
+object oriented programming,stanford_CS 251P
+logic,iowa_CS:5810
+computer,iowa_CS:5810
+instruction set,iowa_CS:5810
+memory hierarchy,iowa_CS:5810
+data,iowa_CS:5810
+computer vision,maryland_CMSC 132
+computer graphics,maryland_CMSC 132
+image analysis,maryland_CMSC 132
+computer,maryland_CMSC 132
+graphics,maryland_CMSC 132
+image,maryland_CMSC 132
+machine learning,mit_6.951
+distributed computing,mit_6.951
+computing,mit_6.951
+cloud computing,mit_6.951
+statistics,mit_6.951
+data,mit_6.951
+computational geometry,psu_CMPSC 312
+geometry,psu_CMPSC 312
+linear programming,psu_CMPSC 312
+data,psu_CMPSC 312
+approximation,psu_CMPSC 312
+computer science,cmu_15-463
+computer security,cmu_15-463
+cryptography,cmu_15-463
+network security,cmu_15-463
+computer,cmu_15-463
+security,cmu_15-463
+natural language processing,caltech_CS 142
+robotics,caltech_CS 142
+artificial intelligence,caltech_CS 142
+probability,caltech_CS 142
+natural language,caltech_CS 142
+data,caltech_CS 142
+uncertainty,caltech_CS 142
+problem solving,caltech_CS 142
+cryptography,cmu_15-349
+complexity,cmu_15-349
+information theory,cmu_15-349
+traffic analysis,cmu_15-349
+number theory,cmu_15-349
+data,cmu_15-349
+security,cmu_15-349
+encryption,cmu_15-349
+network security,cmu_15-381
+internet,cmu_15-381
+routing,cmu_15-381
+computer,cmu_15-381
+peer to peer,cmu_15-381
+congestion control,cmu_15-381
+security,cmu_15-381
+computing,iowa_CS:2111
+data,iowa_CS:2111
+formal language,purdue_CS 55500
+computability,purdue_CS 55500
+computation,purdue_CS 55500
+distributed algorithms,mit_6.829
+data,mit_6.829
+mutual exclusion,mit_6.829
+information theory,msu_CSE 471
+software development,msu_CSE 460
+object oriented programming,msu_CSE 460
+computer science,mit_6.441
+complexity,mit_6.441
+pspace,mit_6.441
+computer,mit_6.441
+computing,mit_6.441
+np complete,mit_6.441
+mathematics,mit_6.441
+computation,mit_6.441
+complexity,stanford_CS 106X
+software design,stanford_CS 106X
+object oriented programming,stanford_CS 154
+analysis of algorithms,stanford_CS 154
+programming language,stanford_CS 154
+data,stanford_CS 154
+computer science,psu_CMPSC 201
+linear programming,psu_CMPSC 201
+computer,psu_CMPSC 201
+approximation,psu_CMPSC 201
+pattern recognition,stanford_CS 190
+computer,stanford_CS 190
+input output,stanford_CS 190
+data,stanford_CS 190
+approximation,stanford_CS 190
+graphics,stanford_CS 190
+image,stanford_CS 190
+database,illinois_CS 225
+relational database,illinois_CS 225
+database design,illinois_CS 225
+operating system,illinois_CS 573
+computer,illinois_CS 573
+computing,illinois_CS 573
+security,illinois_CS 573
+speech recognition,maryland_CMSC 733
+computing,maryland_CMSC 733
+bioinformatics,psu_CMPSC 430
+dynamic programming,psu_CMPSC 430
+signal processing,stanford_CS 196
+communication,stanford_CS 196
+computing,cmu_15-369
+robotics,illinois_CS 466
+algebra,illinois_CS 466
+calculus,illinois_CS 466
+linear algebra,illinois_CS 466
+tensor,illinois_CS 466
+mathematics,illinois_CS 466
+graphics,illinois_CS 466
+least squares,mit_6.637
+input output,mit_6.637
+finite difference,psu_CMPSC 475
+software engineering,stanford_CS 205A
+data,mit_6.241
+randomness,psu_CSE 552
+complexity,psu_CSE 552
+polynomial,psu_CSE 552
+pspace,psu_CSE 552
+computer security,illinois_CS 429
+cryptography,illinois_CS 429
+network security,illinois_CS 429
+cryptanalysis,illinois_CS 429
+computer,illinois_CS 429
+security,illinois_CS 429
+system programming,illinois_CS 579
+computer,illinois_CS 579
+peer to peer,illinois_CS 579
+file system,illinois_CS 579
+security,illinois_CS 579
+parsing,msu_CSE 425
+programming language,msu_CSE 425
+software engineering,psu_CSE 532
+recursion,psu_CSE 532
+software design,psu_CSE 532
+data,psu_CSE 532
+computer graphics,mit_6.824
+geometry,mit_6.824
+computer,mit_6.824
+graphics,mit_6.824
+shading,mit_6.824
+software development,msu_CSE 450
+object oriented programming,msu_CSE 450
+deadlock,msu_CSE 450
+functional programming,msu_CSE 450
+message passing,msu_CSE 450
+data,msu_CSE 450
+software development,mit_6.S04
+program analysis,mit_6.S04
+data,mit_6.S04
+security,mit_6.S04
+computer science,msu_CSE 472
+combinatorics,msu_CSE 472
+cryptography,msu_CSE 472
+probability,msu_CSE 472
+computer,msu_CSE 472
+computation,msu_CSE 472
+data,msu_CSE 472
+uncertainty,msu_CSE 472
+computer science,princeton_COS  340
+computer,princeton_COS  340
+security,princeton_COS  340
+algebra,illinois_CS 528
+fourier analysis,illinois_CS 528
+image analysis,illinois_CS 528
+calculus,illinois_CS 528
+interpolation,illinois_CS 528
+linear algebra,illinois_CS 528
+computing,illinois_CS 528
+wavelet,illinois_CS 528
+image,illinois_CS 528
+software development,iowa_CS:1110
+software engineering,iowa_CS:1110
+malware,mit_6.375
+operating system,mit_6.375
+network security,mit_6.375
+computer,mit_6.375
+security,mit_6.375
+user interface design,stanford_CS 448J
+computing,stanford_CS 448J
+user interface,stanford_CS 448J
+statistical inference,illinois_CS 427
+artificial intelligence,illinois_CS 427
+inference,illinois_CS 427
+problem solving,illinois_CS 427
+algorithm,stanford_CS 155
+dynamic programming,stanford_CS 155
+complexity,stanford_CS 155
+algorithm design,stanford_CS 155
+computer,stanford_CS 155
+computer security,stanford_CS 194H
+cryptography,stanford_CS 194H
+web browser,stanford_CS 194H
+authentication,stanford_CS 194H
+cryptanalysis,stanford_CS 194H
+computer,stanford_CS 194H
+public key cryptography,stanford_CS 194H
+security,stanford_CS 194H
+encryption,stanford_CS 194H
+computer,mit_6.034
+instruction set,mit_6.034
+memory hierarchy,mit_6.034
+computer,maryland_CMSC 451
+computer architecture,maryland_CMSC 451
+software design,mit_6.857
+computer,mit_6.857
+computing,mit_6.857
+lexical analysis,illinois_CS 433
+parsing,illinois_CS 433
+program analysis,illinois_CS 433
+robot,psu_CSE 530
+computation,psu_CSE 530
+communication,psu_CSE 530
+database,stanford_CS 476A
+database system,stanford_CS 476A
+world wide web,maryland_CMSC 430
+image processing,cmu_15-491
+data,cmu_15-491
+image,cmu_15-491
+computing,iowa_CS:3910
+communication,iowa_CS:3910
+computer security,msu_CSE 477
+internet,msu_CSE 477
+computer,msu_CSE 477
+security,msu_CSE 477
+computer science,mit_6.815
+theoretical computer science,mit_6.815
+computer,mit_6.815
+programming language,msu_CSE 101
+scripting language,msu_CSE 101
+python programming language,msu_CSE 101
+data,msu_CSE 101
+operating system,msu_CSE 201
+computing,msu_CSE 201
+server computing,msu_CSE 201
+synchronization,msu_CSE 201
+modular programming,caltech_CS 153
+functional programming,caltech_CS 153
+data,caltech_CS 153
+debugging,psu_CMPSC 474
+communication,psu_CMPSC 474
+computer science,princeton_COS  326
+logic,princeton_COS  326
+computer,princeton_COS  326
+data,princeton_COS  326
+javascript,mit_6.621
+html,mit_6.621
+scalability,mit_6.621
+security,mit_6.621
+dynamic programming,mit_6.835
+stochastic,mit_6.835
+computer vision,mit_6.101
+robotics,mit_6.101
+artificial intelligence,mit_6.101
+computer,mit_6.101
+integral,stanford_CS 142
+computer,mit_6.231
+computing,mit_6.231
+computer architecture,mit_6.231
+matlab,msu_CSE 841
+computer,msu_CSE 841
+operating system,mit_6.921
+virtual memory,mit_6.921
+communication,mit_6.336
+computer science,mit_6.245
+analysis of algorithms,mit_6.245
+recursion,mit_6.245
+computer,mit_6.245
+data,mit_6.245
+communication,princeton_COS  318
+theory of computation,iowa_CS:3640
+halting problem,iowa_CS:3640
+computability,iowa_CS:3640
+computation,iowa_CS:3640
+operating system,psu_CMPSC 465
+memory management,psu_CMPSC 465
+security,psu_CMPSC 465
+programming language,mit_6.02
+haskell programming language,mit_6.02
+debugging,mit_6.02
+security,mit_6.02
+performance tuning,mit_6.02
+database,illinois_CS 373
+relational database,illinois_CS 373
+software engineering,illinois_CS 373
+concurrency control,illinois_CS 373
+transaction processing,illinois_CS 373
+database system,illinois_CS 373
+computer vision,mit_6.631
+machine learning,mit_6.631
+robotics,mit_6.631
+artificial intelligence,mit_6.631
+computer,mit_6.631
+prolog,mit_6.631
+inference,mit_6.631
+natural language,mit_6.631
+problem solving,mit_6.631
+analysis of algorithms,psu_CMPSC 472
+pattern matching,psu_CMPSC 472
+linear programming,psu_CMPSC 472
+computing,psu_CMPSC 472
+motion planning,psu_CMPSC 472
+data,psu_CMPSC 472
+software engineering,stanford_CS 240H
+programmer,stanford_CS 240H
+software design,stanford_CS 240H
+structured programming,stanford_CS 240H
+scalability,caltech_CS 122
+data,caltech_CS 122
+synchronization,caltech_CS 122
+computer science,mit_6.850
+model checking,mit_6.850
+computer,mit_6.850
+syntax,mit_6.850
+computer vision,maryland_CMSC 435
+software development,maryland_CMSC 435
+image processing,maryland_CMSC 435
+computer,maryland_CMSC 435
+feature extraction,maryland_CMSC 435
+graphics,maryland_CMSC 435
+image,maryland_CMSC 435
+algebra,mit_6.952
+linear algebra,mit_6.952
+matlab,princeton_COS  597B
+computer graphics,mit_6.061
+volume rendering,mit_6.061
+computer,mit_6.061
+graphics,mit_6.061
+image,mit_6.061
+computer science,stanford_CS 231M
+complexity,stanford_CS 231M
+computer,stanford_CS 231M
+debugging,stanford_CS 231M
+computation,stanford_CS 231M
+data,stanford_CS 231M
+computer,iowa_CS:3210
+computer architecture,iowa_CS:3210
+instruction set,iowa_CS:3210
+data,iowa_CS:3210
+authentication,illinois_CS 554
+security,illinois_CS 554
+information security,illinois_CS 554
+database,mit_6.720
+computer,mit_6.720
+computer graphics,stanford_CS 348B
+computer,stanford_CS 348B
+graphics,stanford_CS 348B
+complexity,mit_6.0001
+halting problem,mit_6.0001
+computability,mit_6.0001
+computation,mit_6.0001
+complexity,"princeton_ELE  475,COS  475"
+computer,"princeton_ELE  475,COS  475"
+computer architecture,"princeton_ELE  475,COS  475"
+virtual memory,"princeton_ELE  475,COS  475"
+instruction set,"princeton_ELE  475,COS  475"
+computation,purdue_CS 52600
+computer science,mit_6.838
+logic,mit_6.838
+functional programming,mit_6.838
+computer,mit_6.838
+scientific visualization,"princeton_COS  375,ELE  375"
+tensor,"princeton_COS  375,ELE  375"
+data,"princeton_COS  375,ELE  375"
+computational science,"princeton_COS  375,ELE  375"
+software development,mit_6.701
+program analysis,mit_6.701
+security,mit_6.701
+robotics,mit_6.170
+reinforcement learning,mit_6.170
+motion planning,mit_6.170
+algebra,cmu_15-317
+sparse matrix,cmu_15-317
+least squares,cmu_15-317
+linear algebra,cmu_15-317
+eigenvalues and eigenvectors,cmu_15-317
+computation,cmu_15-317
+cryptography,mit_6.730
+internet,mit_6.730
+authentication,mit_6.730
+integral,mit_6.730
+security,mit_6.730
+information security,mit_6.730
+computer graphics,illinois_CS 519
+computational geometry,illinois_CS 519
+geometry,illinois_CS 519
+image processing,illinois_CS 519
+computer,illinois_CS 519
+data,illinois_CS 519
+graphics,illinois_CS 519
+image,illinois_CS 519
+software engineering,stanford_CS 242
+finite difference,mit_6.832
+microprocessor,psu_CSE 550
+computer science,cmu_15-421
+computer,cmu_15-421
+operating system,maryland_CMSC 725
+computer,maryland_CMSC 725
+file system,maryland_CMSC 725
+virtual memory,maryland_CMSC 725
+data,maryland_CMSC 725
+security,maryland_CMSC 725
+communication,maryland_CMSC 725
+computer graphics,cmu_15-313
+geometric modeling,cmu_15-313
+computational geometry,cmu_15-313
+geometry,cmu_15-313
+computer,cmu_15-313
+computing,cmu_15-313
+statistics,cmu_15-313
+mathematics,cmu_15-313
+graphics,cmu_15-313
+algorithm,purdue_CS 61400
+statistical inference,purdue_CS 61400
+inference,purdue_CS 61400
+data,purdue_CS 61400
+security,caltech_EE/CS 53
+computer science,psu_CMPSC 484
+computer,psu_CMPSC 484
+computing,psu_CMPSC 484
+data analysis,psu_CMPSC 484
+computation,psu_CMPSC 484
+data,psu_CMPSC 484
+algebra,illinois_CS 523
+geometry,illinois_CS 523
+analysis of algorithms,illinois_CS 523
+image analysis,illinois_CS 523
+discrete mathematics,illinois_CS 523
+graph theory,illinois_CS 523
+mathematics,illinois_CS 523
+image,illinois_CS 523
+computer science,mit_6.839
+analysis of algorithms,mit_6.839
+dynamic programming,mit_6.839
+computer,mit_6.839
+data,mit_6.839
+integer,mit_6.839
+robotics,mit_6.438
+embedded system,mit_6.438
+mechanical engineering,mit_6.438
+algorithm,psu_CMPSC 497B
+analysis of algorithms,psu_CMPSC 497B
+dynamic programming,psu_CMPSC 497B
+algorithm design,psu_CMPSC 497B
+spanning tree,psu_CMPSC 497B
+amortized analysis,psu_CMPSC 497B
+data,psu_CMPSC 497B
+randomization,psu_CMPSC 497B
+computer vision,"princeton_COS  126,EGR  126"
+image processing,"princeton_COS  126,EGR  126"
+computer,"princeton_COS  126,EGR  126"
+image,"princeton_COS  126,EGR  126"
+robotics,psu_CSE 597A
+reinforcement learning,psu_CSE 597A
+dynamic programming,psu_CSE 597A
+embedded system,cmu_15-351
+signal processing,cmu_15-351
+data,cmu_15-351
+microprocessor,cmu_15-351
+object oriented programming,mit_6.142
+program analysis,mit_6.142
+inheritance object oriented programming,mit_6.142
+semantics,mit_6.142
+denotational semantics,mit_6.142
+data,mit_6.142
+data,stanford_CS 161
+graphical user interface,stanford_CS 231A
+software engineering,stanford_CS 231A
+software design,stanford_CS 231A
+user interface,stanford_CS 231A
+first order logic,stanford_CS 239
+cryptography,stanford_CS 239
+logic,stanford_CS 239
+complexity,stanford_CS 239
+discrete mathematics,stanford_CS 239
+graph theory,stanford_CS 239
+linear programming,stanford_CS 239
+computability,stanford_CS 239
+syntax,stanford_CS 239
+semantics,stanford_CS 239
+mathematics,stanford_CS 239
+computer,illinois_CS 431
+data,illinois_CS 431
+floating point,illinois_CS 431
+database,mit_6.932
+sql,mit_6.932
+computing,stanford_CS 108
+algorithm,caltech_Ma/CS 6
+data structure,caltech_Ma/CS 6
+dynamic memory allocation,caltech_Ma/CS 6
+data,caltech_Ma/CS 6
+generic programming,caltech_Ma/CS 6
+computer graphics,maryland_CMSC 216
+geometric modeling,maryland_CMSC 216
+computational geometry,maryland_CMSC 216
+geometry,maryland_CMSC 216
+computer,maryland_CMSC 216
+personal computer,maryland_CMSC 216
+motion capture,maryland_CMSC 216
+graphics,maryland_CMSC 216
+image,maryland_CMSC 216
+computer security,mit_6.690
+operating system,mit_6.690
+network security,mit_6.690
+internet,mit_6.690
+computer,mit_6.690
+security,mit_6.690
+machine learning,iowa_CS:4400
+speech recognition,iowa_CS:4400
+data,iowa_CS:4400
+computational complexity theory,stanford_CS 374
+complexity,stanford_CS 374
+communication,stanford_CS 374
+computer science,msu_CSE 232
+computer,msu_CSE 232
+computation,msu_CSE 232
+scalability,stanford_CS 248
+database,psu_CMPSC 443
+algebra,psu_CMPSC 443
+concurrency control,psu_CMPSC 443
+sql,psu_CMPSC 443
+calculus,psu_CMPSC 443
+transaction processing,psu_CMPSC 443
+database design,psu_CMPSC 443
+database system,psu_CMPSC 443
+query optimization,psu_CMPSC 443
+data,psu_CMPSC 443
+data,cmu_15-492
+programmer,caltech_CS 21
+computer,caltech_CS 21
+computer architecture,caltech_CS 21
+computation,caltech_CS 21
+arithmetic,caltech_CS 21
+database,cmu_15-415
+parallel computing,psu_CMPSC 462
+computing,psu_CMPSC 462
+complexity,mit_6.THM
+cryptography,cmu_15-213
+game theory,cmu_15-213
+theory of computation,mit_6.007
+complexity,mit_6.007
+computability,mit_6.007
+computation,mit_6.007
+complexity,caltech_CS 123
+information theory,caltech_CS 123
+pattern recognition,caltech_CS 123
+interpolation,iowa_CS:4700
+numerical analysis,iowa_CS:4700
+floating point,iowa_CS:4700
+parsing,mit_6.876
+compiler,mit_6.876
+formal language,mit_6.876
+prolog,mit_6.876
+automata theory,mit_6.876
+geometry,psu_CMPSC 464
+information theory,psu_CMPSC 464
+probability,psu_CMPSC 464
+game theory,psu_CMPSC 464
+economics,psu_CMPSC 464
+statistics,psu_CMPSC 464
+computation,psu_CMPSC 464
+data,psu_CMPSC 464
+approximation,psu_CMPSC 464
+routing,caltech_CS/EE/Ma 129
+computer vision,maryland_CMSC 466
+neural network,maryland_CMSC 466
+computer,maryland_CMSC 466
+image,maryland_CMSC 466
+signal processing,illinois_CS 410
+algebra,purdue_CS 66100
+logic,purdue_CS 66100
+computer,purdue_CS 66100
+assembly language,purdue_CS 66100
+data,purdue_CS 66100
+interpolation,mit_6.816
+numerical analysis,mit_6.816
+approximation,mit_6.816
+computer vision,maryland_CMSC 250H
+machine learning,maryland_CMSC 250H
+computer,maryland_CMSC 250H
+graphics,maryland_CMSC 250H
+image,maryland_CMSC 250H
+computer science,caltech_CS/SS 152
+algebra,caltech_CS/SS 152
+complexity,caltech_CS/SS 152
+time complexity,caltech_CS/SS 152
+functional programming,caltech_CS/SS 152
+imperative programming,caltech_CS/SS 152
+computer,caltech_CS/SS 152
+model of computation,caltech_CS/SS 152
+computation,caltech_CS/SS 152
+data,caltech_CS/SS 152
+complexity,psu_CSE 537
+computing,psu_CSE 537
+computability,psu_CSE 537
+user interface design,stanford_CS 231N
+user interface,stanford_CS 231N
+synchronization,stanford_CS 231N
+virtual memory,mit_6.775
+communication,mit_6.775
+synchronization,mit_6.775
+scientific visualization,msu_CSE 320
+data analysis,msu_CSE 320
+data,msu_CSE 320
+internet,maryland_CMSC 666
+computer,maryland_CMSC 666
+computing,maryland_CMSC 666
+security,maryland_CMSC 666
+fourier analysis,mit_6.819
+signal processing,mit_6.819
+interpolation,mit_6.819
+prediction,mit_6.819
+computation,mit_6.819
+algorithm,cmu_15-150
+database,cmu_15-150
+machine learning,cmu_15-150
+dynamic programming,cmu_15-150
+algorithm design,cmu_15-150
+stochastic,cmu_15-150
+speech recognition,cmu_15-453
+robot,cmu_15-453
+inference,cmu_15-453
+motion planning,cmu_15-453
+data,cmu_15-453
+bioinformatics,illinois_CS 414
+data analysis,illinois_CS 414
+data,illinois_CS 414
+database,mit_6.503
+concurrency control,mit_6.503
+query optimization,mit_6.503
+mapreduce,mit_6.503
+algorithm,stanford_CS 140
+algorithm design,stanford_CS 140
+approximation algorithm,stanford_CS 140
+approximation,stanford_CS 140
+human computer interaction,psu_CMPSC 459
+computer,psu_CMPSC 459
+user interface,psu_CMPSC 459
+interpolation,stanford_CS 1C
+numerical analysis,stanford_CS 1C
+computation,stanford_CS 1C
+floating point,stanford_CS 1C
+computing,mit_6.341
+data,mit_6.341
+problem solving,mit_6.341
+computer,mit_6.047
+input output,mit_6.047
+communication,mit_6.047
+logic,stanford_CS 228
+arithmetic,stanford_CS 228
+robotics,stanford_CS 275
+robot,stanford_CS 275
+software framework,stanford_CS 275
+computer programming,stanford_CS 345D
+computer,stanford_CS 345D
+parsing,illinois_CS 583
+syntax,illinois_CS 583
+data,illinois_CS 583
+computer science,iowa_CS:2520
+logic,iowa_CS:2520
+automated theorem proving,iowa_CS:2520
+model checking,iowa_CS:2520
+program analysis,iowa_CS:2520
+computer,iowa_CS:2520
+floating point,iowa_CS:2520
+signal processing,psu_CMPSC 455
+stochastic,psu_CMPSC 455
+input output,psu_CMPSC 455
+inference,psu_CMPSC 455
+communication,psu_CMPSC 455
+software development,illinois_CS 101
+software engineering,illinois_CS 101
+computer animation,maryland_CMSC 411
+computer,maryland_CMSC 411
+software development,mit_6.374
+formal methods,mit_6.374
+computer graphics,cmu_15-494
+computer,cmu_15-494
+scientific visualization,cmu_15-494
+graphics,cmu_15-494
+image,cmu_15-494
+shading,cmu_15-494
+human computer interaction,psu_CSE 520
+user interface design,psu_CSE 520
+computer,psu_CSE 520
+user interface,psu_CSE 520
+probability theory,illinois_CS 421
+machine translation,illinois_CS 421
+probability,illinois_CS 421
+statistics,illinois_CS 421
+part of speech tagging,illinois_CS 421
+programming language,mit_6.011
+computer graphics,stanford_CS 210A
+geometric modeling,stanford_CS 210A
+image processing,stanford_CS 210A
+computer,stanford_CS 210A
+graphics,stanford_CS 210A
+image,stanford_CS 210A
+shading,stanford_CS 210A
+probability,stanford_CS 448Z
+decision theory,stanford_CS 448Z
+stochastic,stanford_CS 448Z
+communication,stanford_CS 448Z
+computer science,msu_CSE 814
+computer,msu_CSE 814
+estimation theory,caltech_CS/CNS 171
+statistics,caltech_CS/CNS 171
+programming language,mit_6.813
+computer,mit_6.813
+data,mit_6.813
+arithmetic,mit_6.813
+microprocessor,mit_6.813
+microprocessor,cmu_15-383
+logic,psu_CMPSC 426
+computer,psu_CMPSC 426
+assembly language,psu_CMPSC 426
+data,psu_CMPSC 426
+arithmetic,psu_CMPSC 426
+database,cmu_15-462
+relational database,cmu_15-462
+algebra,cmu_15-462
+query language,cmu_15-462
+sql,cmu_15-462
+transaction processing,cmu_15-462
+data,cmu_15-462
+relational algebra,cmu_15-462
+data,mit_6.831
+data,mit_6.262
+internet,cmu_15-294
+data,cmu_15-294
+communication,cmu_15-294
+machine learning,mit_6.434
+data mining,mit_6.434
+social network,mit_6.434
+data,mit_6.434
+computer vision,stanford_CS 107
+computer,stanford_CS 107
+algorithm,caltech_EE/CS 52
+input output,stanford_CS 251
+prediction,stanford_CS 251
+operating system,caltech_CS 121
+memory management,caltech_CS 121
+virtual memory,caltech_CS 121
+security,caltech_CS 121
+communication,caltech_CS 121
+synchronization,caltech_CS 121
+robotics,stanford_CS 371
+algebra,stanford_CS 371
+geometry,stanford_CS 371
+robot,stanford_CS 371
+motion planning,stanford_CS 371
+kinematics,stanford_CS 371
+data mining,mit_6.874
+data warehouse,mit_6.874
+data,mit_6.874
+algorithm,mit_6.263
+cryptography,mit_6.263
+cryptanalysis,mit_6.263
+traffic analysis,mit_6.263
+quantum cryptography,mit_6.263
+computer science,mit_6.945
+machine learning,mit_6.945
+analysis of algorithms,mit_6.945
+combinatorics,mit_6.945
+probability,mit_6.945
+computer,mit_6.945
+conditional probability,mit_6.945
+computer graphics,stanford_CS 246
+computer,stanford_CS 246
+graphics,stanford_CS 246
+human computer interaction,illinois_CS 445
+computer,illinois_CS 445
+object oriented programming,psu_CSE 555
+programming language,psu_CSE 555
+software design,psu_CSE 555
+probability theory,mit_6.777
+probability,mit_6.777
+gradient descent,mit_6.435
+linear programming,mit_6.435
+algebra,stanford_CS 240
+complexity,stanford_CS 240
+polynomial,stanford_CS 240
+computer,stanford_CS 240
+multiplication,stanford_CS 240
+fast fourier transform,stanford_CS 240
+integer,stanford_CS 240
+computer science,stanford_CS 223A
+dynamic programming,stanford_CS 223A
+computer,stanford_CS 223A
+natural language processing,illinois_CS 412
+machine learning,illinois_CS 412
+speech recognition,illinois_CS 412
+syntax,illinois_CS 412
+semantics,illinois_CS 412
+natural language,illinois_CS 412
+first order logic,purdue_CS 65500
+logic,purdue_CS 65500
+semantics,purdue_CS 65500
+computer science,stanford_CS 109
+logic,stanford_CS 109
+discrete mathematics,stanford_CS 109
+computer,stanford_CS 109
+mathematics,stanford_CS 109
+bioinformatics,mit_6.837
+cryptography,maryland_CMSC 434
+computer,maryland_CMSC 434
+programming language,maryland_CMSC 433
+programmer,maryland_CMSC 433
+semantics,maryland_CMSC 433
+computation,maryland_CMSC 433
+communication,maryland_CMSC 433
+reason,maryland_CMSC 433
+database,mit_6.436
+reason,mit_6.436
+unix,stanford_CS 168
+file system,stanford_CS 168
+computational geometry,psu_CSE 588
+geometry,psu_CSE 588
+analysis of algorithms,psu_CSE 588
+dynamic programming,psu_CSE 588
+parallel computing,psu_CSE 588
+polynomial,psu_CSE 588
+computing,psu_CSE 588
+amortized analysis,psu_CSE 588
+computer science,stanford_CS 262
+object oriented programming,stanford_CS 262
+calculus,stanford_CS 262
+computer,stanford_CS 262
+data,stanford_CS 262
+problem solving,stanford_CS 262
+database,illinois_CS 546
+concurrency control,illinois_CS 546
+database system,illinois_CS 546
+query optimization,illinois_CS 546
+data,caltech_CS 116
+introduction to algorithms,caltech_CS 116
+input output,psu_CMPSC 360
+security,psu_CMPSC 360
+shared memory,psu_CMPSC 467
+security,psu_CMPSC 467
+communication,psu_CMPSC 467
+synchronization,psu_CMPSC 467
+network security,cmu_15-424
+internet,cmu_15-424
+routing,cmu_15-424
+computer,cmu_15-424
+congestion control,cmu_15-424
+security,cmu_15-424
+computer graphics,purdue_CS 64100
+computer,purdue_CS 64100
+graphics,purdue_CS 64100
+complexity,mit_6.046
+polynomial,mit_6.046
+semidefinite programming,mit_6.046
+computer science,iowa_CS:1210
+computer,iowa_CS:1210
+communication,iowa_CS:1210
+computer science,stanford_CS 245
+object oriented programming,stanford_CS 245
+complexity,stanford_CS 245
+recursion,stanford_CS 245
+software design,stanford_CS 245
+computer,stanford_CS 245
+data,stanford_CS 245
+finite difference,mit_6.006
+operating system,cmu_15-392
+memory management,cmu_15-392
+assembly language,cmu_15-392
+virtual memory,cmu_15-392
+natural language processing,mit_6.634
+parsing,mit_6.634
+question answering,mit_6.634
+machine translation,mit_6.634
+syntax,mit_6.634
+semantics,mit_6.634
+part of speech tagging,mit_6.634
+natural language,mit_6.634
+computer science,stanford_CS 244B
+programming language,stanford_CS 244B
+python programming language,stanford_CS 244B
+computer,stanford_CS 244B
+debugging,stanford_CS 244B
+integral,illinois_CS 538
+database,illinois_CS 418
+distributed computing,illinois_CS 418
+concurrency control,illinois_CS 418
+deadlock,illinois_CS 418
+computer,illinois_CS 418
+computing,illinois_CS 418
+data,illinois_CS 418
+security,illinois_CS 418
+synchronization,illinois_CS 418
+assembly language,stanford_CS 90SI
+programming paradigm,mit_6.256
+pattern matching,mit_6.256
+recursion,mit_6.256
+functional programming,mit_6.256
+lazy evaluation,mit_6.256
+data,mit_6.256
+robotics,cmu_15-300
+autonomous robot,cmu_15-300
+robot,cmu_15-300
+kinematics,cmu_15-300
+data,iowa_CS:2230
+security,illinois_CS 555
+probability theory,maryland_CMSC 723
+statistical inference,maryland_CMSC 723
+probability,maryland_CMSC 723
+inference,maryland_CMSC 723
+conditional probability,maryland_CMSC 723
+artificial intelligence,cmu_15-112
+problem solving,cmu_15-112
+data,mit_6.442
+computation,purdue_CS 60300
+approximation,purdue_CS 60300
+floating point,purdue_CS 60300
+machine learning,psu_CMPSC 313
+statistical inference,psu_CMPSC 313
+inference,psu_CMPSC 313
+distributed computing,caltech_CS 115
+peer to peer,caltech_CS 115
+computing,caltech_CS 115
+robot,stanford_CS 225A
+cryptography,cmu_15-365
+quantum mechanics,cmu_15-365
+quantum cryptography,cmu_15-365
+communication,cmu_15-365
+uncertainty,cmu_15-365
+compiler,illinois_CS 425
+compiler,mit_6.243
+computer,mit_6.243
+computer,mit_6.041
+synchronization,psu_CMPSC 441
+object oriented programming,stanford_CS 279
+analysis of algorithms,stanford_CS 279
+data,stanford_CS 279
+robotics,illinois_CS 357
+image analysis,illinois_CS 357
+image processing,illinois_CS 357
+image,illinois_CS 357
+machine learning,mit_6.867
+artificial intelligence,mit_6.867
+problem solving,mit_6.867
+software development,illinois_CS 424
+software engineering,illinois_CS 424
+computer graphics,purdue_CS 50200
+geometric modeling,purdue_CS 50200
+geometry,purdue_CS 50200
+computer,purdue_CS 50200
+tensor,purdue_CS 50200
+data,purdue_CS 50200
+graphics,purdue_CS 50200
+deadlock,mit_6.717
+virtual memory,mit_6.717
+security,mit_6.717
+computer science,mit_6.035
+computer,mit_6.035
+algorithm,psu_CSE 560
+computer science,psu_CSE 560
+computer,psu_CSE 560
+data analysis,psu_CSE 560
+data,psu_CSE 560
+graphics,psu_CSE 560
+computer science,psu_CMPSC 450
+formal language,psu_CMPSC 450
+logic,psu_CMPSC 450
+computer,psu_CMPSC 450
+computing,psu_CMPSC 450
+predicate logic,psu_CMPSC 450
+programming language,cmu_15-121
+functional programming,cmu_15-121
+semantics,cmu_15-121
+denotational semantics,cmu_15-121
+database,mit_6.801
+relational model,mit_6.801
+query optimization,mit_6.801
+semantics,mit_6.801
+security,mit_6.801
+randomness,iowa_CS:4420
+combinatorics,iowa_CS:4420
+fourier analysis,iowa_CS:4420
+cryptography,iowa_CS:4420
+complexity,iowa_CS:4420
+computational learning theory,iowa_CS:4420
+computation,iowa_CS:4420
+network security,mit_6.UAP
+internet,mit_6.UAP
+routing,mit_6.UAP
+congestion control,mit_6.UAP
+security,mit_6.UAP
+memory management,stanford_CS 210B
+communication,stanford_CS 210B
+synchronization,stanford_CS 210B
+mathematics,mit_6.878
+robotics,stanford_CS 348A
+artificial intelligence,stanford_CS 348A
+pattern matching,stanford_CS 348A
+prolog,stanford_CS 348A
+inference,stanford_CS 348A
+data,stanford_CS 348A
+internet,illinois_CS 423
+routing,illinois_CS 423
+congestion control,illinois_CS 423
+communication,illinois_CS 423
+unix,psu_CMPSC 488
+operating system,psu_CMPSC 488
+deadlock,psu_CMPSC 488
+assembly language,psu_CMPSC 488
+virtual memory,psu_CMPSC 488
+debugging,psu_CMPSC 488
+security,psu_CMPSC 488
+communication,psu_CMPSC 488
+synchronization,psu_CMPSC 488
+arithmetic,psu_CMPSC 488
+computer graphics,cmu_15-210
+computer,cmu_15-210
+mathematics,cmu_15-210
+graphics,cmu_15-210
+shading,cmu_15-210
+software engineering,stanford_CS 103
+communication,stanford_CS 103
+problem solving,stanford_CS 103
+computer science,illinois_CS 522
+coding theory,illinois_CS 522
+computer,illinois_CS 522
+mathematics,illinois_CS 522
+recursion,purdue_CS 54100
+debugging,purdue_CS 54100
+problem solving,purdue_CS 54100
+human computer interaction,mit_6.842
+internet,mit_6.842
+computer,mit_6.842
+security,mit_6.842
+human computer interaction,maryland_CMSC 412
+interaction design,maryland_CMSC 412
+computer,maryland_CMSC 412
+programming language,msu_CSE 231
+recursion,msu_CSE 231
+syntax,msu_CSE 231
+data,msu_CSE 231
+computer science,maryland_CMSC 421
+computer,maryland_CMSC 421
+communication,caltech_CS/EE 143
+computing,cmu_15-410
+security,cmu_15-410
+communication,cmu_15-410
+synchronization,cmu_15-410
+computer science,maryland_CMSC 427
+logic,maryland_CMSC 427
+probability,maryland_CMSC 427
+discrete mathematics,maryland_CMSC 427
+graph theory,maryland_CMSC 427
+computer,maryland_CMSC 427
+mathematics,maryland_CMSC 427
+integer,maryland_CMSC 427
+analysis of algorithms,stanford_CS 9
+linear programming,stanford_CS 9
+computation,stanford_CS 9
+data,stanford_CS 9
+randomization,stanford_CS 9
+computational geometry,mit_6.440
+geometry,mit_6.440
+linear programming,mit_6.440
+computer security,psu_CMPSC 102
+authentication,psu_CMPSC 102
+computer,psu_CMPSC 102
+security,psu_CMPSC 102
+internet,stanford_CS 294S
+analysis of algorithms,mit_6.774
+approximation,mit_6.774
+database,stanford_CS 247
+relational database,stanford_CS 247
+concurrency control,stanford_CS 247
+database design,stanford_CS 247
+query optimization,stanford_CS 247
+data,stanford_CS 247
+recursion,iowa_CS:3820
+structured programming,iowa_CS:3820
+problem solving,iowa_CS:3820
+data,iowa_CS:3980
+integer,iowa_CS:3980
+pagerank,mit_6.UAR
+social network,mit_6.UAR
+question answering,mit_6.UAR
+machine translation,mit_6.UAR
+sentiment analysis,mit_6.UAR
+sequence alignment,mit_6.UAR
+complexity,mit_6.042
+semantics,mit_6.042
+computation,mit_6.042
+algorithm,mit_6.856
+computer science,mit_6.856
+dynamic programming,mit_6.856
+algorithm design,mit_6.856
+recursion,mit_6.856
+computer,mit_6.856
+data,mit_6.856
+randomization,mit_6.856
+robotics,cmu_15-456
+geometry,cmu_15-456
+polynomial,cmu_15-456
+least squares,iowa_CS:4640
+distributed algorithms,caltech_CS/EE 146
+computer vision,caltech_CMS/CS 139
+computer,caltech_CMS/CS 139
+robotics,psu_CSE 541
+embedded system,psu_CSE 541
+robot,psu_CSE 541
+motion planning,psu_CSE 541
+computation,psu_CSE 541
+communication,psu_CSE 541
+kinematics,psu_CSE 541
+mechanical engineering,psu_CSE 541
+uncertainty,psu_CMPSC 121
+cache coherence,mit_6.851
+computer,mit_6.851
+superscalar,mit_6.851
+computer architecture,mit_6.851
+virtual memory,mit_6.851
+very long instruction word,mit_6.851
+synchronization,mit_6.851
+machine learning,stanford_CS 124
+prediction,stanford_CS 124
+inference,stanford_CS 124
+data,stanford_CS 124
+asymptotic analysis,stanford_CS 124
+data,mit_6.521
+computer security,illinois_CS 524
+network security,illinois_CS 524
+computer,illinois_CS 524
+security,illinois_CS 524
+assembly language,illinois_CS 473
+inference,illinois_CS 473
+natural language processing,mit_6.849
+natural language,mit_6.849
+data,illinois_CS 457
+software engineering,psu_CSE 563
+network security,mit_6.141
+computer,mit_6.141
+security,mit_6.141
+encryption,mit_6.141
+software development,mit_6.242
+software engineering,mit_6.242
+database,mit_6.823
+computer security,mit_6.823
+computer,mit_6.823
+security,mit_6.823
+algorithm,mit_6.008
+dynamic programming,mit_6.008
+complexity,mit_6.008
+algorithm design,mit_6.008
+pattern matching,mit_6.008
+polynomial,mit_6.008
+software development,illinois_CS 563
+communication,cmu_15-417
