@@ -17,9 +17,9 @@ networkx>=3.0
 The benchmark dataset used in our paper is located at ./dataset. If you have another prerequisite concept dataset, you can create a new folder under ./dataset, which includes the files below.
 ```
 Name_of_Your_New_Dataset
-??? cc.csv
-??? courses.csv
-??? rr.csv
+-- cc.csv
+-- courses.csv
+-- rr.csv
 ```
 The cc.csv includes your concept prerequisite relations.    
 The courses.csv includes the textual descriptions of each course.   
